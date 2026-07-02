@@ -10,23 +10,26 @@
 
 <a id="acknowledgments"></a>
 ## 🙏 Acknowledgments
-- [AlanJiang98/Awesome-LLM-Trading](https://github.com/AlanJiang98/Awesome-LLM-Trading) — whose prior cataloging we build upon.
-- [DataArcTech/Awesome-FinLLMs](https://github.com/DataArcTech/Awesome-FinLLMs) — whose prior cataloging we build upon.
-- [Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation](https://github.com/Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation) — whose prior cataloging we build upon.
-- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) — whose prior cataloging we build upon.
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) — whose prior cataloging we build upon.
-- [leoncuhk/awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai) — whose prior cataloging we build upon.
-- [Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers) — whose prior cataloging we build upon.
-- [kennethleungty/Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs) — whose prior cataloging we build upon.
-- [AI4Finance-Foundation/Awesome_AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance) — whose prior cataloging we build upon.
-- [hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance) — whose prior cataloging we build upon.
-- [anusky95/FinAI](https://github.com/anusky95/FinAI) — whose prior cataloging we build upon.
-- [Open-Finance-Lab/FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard) — whose prior cataloging we build upon.
-- [AI4Finance-Foundation/Awesome_FinRL](https://github.com/AI4Finance-Foundation/Awesome_FinRL) — whose prior cataloging we build upon.
-- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) — whose prior cataloging we build upon.
-- [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) — whose prior cataloging we build upon.
-- [czyssrs/LLM_X_papers](https://github.com/czyssrs/LLM_X_papers) — whose prior cataloging we build upon.
-- [masamasa59/ai-agent-papers](https://github.com/masamasa59/ai-agent-papers) — whose prior cataloging we build upon.
+
+We build upon the prior cataloging of these lists:
+
+- [AlanJiang98/Awesome-LLM-Trading](https://github.com/AlanJiang98/Awesome-LLM-Trading)
+- [DataArcTech/Awesome-FinLLMs](https://github.com/DataArcTech/Awesome-FinLLMs)
+- [Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation](https://github.com/Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation)
+- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
+- [leoncuhk/awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai)
+- [Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers)
+- [kennethleungty/Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs)
+- [AI4Finance-Foundation/Awesome_AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance)
+- [hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance)
+- [anusky95/FinAI](https://github.com/anusky95/FinAI)
+- [Open-Finance-Lab/FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard)
+- [AI4Finance-Foundation/Awesome_FinRL](https://github.com/AI4Finance-Foundation/Awesome_FinRL)
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant)
+- [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
+- [czyssrs/LLM_X_papers](https://github.com/czyssrs/LLM_X_papers)
+- [masamasa59/ai-agent-papers](https://github.com/masamasa59/ai-agent-papers)
 - **[Telegram OpenClaw 中文社区](https://t.me/OpenClaw_Group)** — the Chinese-language OpenClaw community on Telegram — thanks for support and discussion.
 - **[Linux.do](https://linux.do)** — a Chinese-language developer & tech community (Discourse) — thanks for feedback and reach.
 

@@ -10,23 +10,26 @@
 
 <a id="acknowledgments"></a>
 ## 🙏 감사의 말
-- [AlanJiang98/Awesome-LLM-Trading](https://github.com/AlanJiang98/Awesome-LLM-Trading) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [DataArcTech/Awesome-FinLLMs](https://github.com/DataArcTech/Awesome-FinLLMs) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation](https://github.com/Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [leoncuhk/awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [kennethleungty/Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [AI4Finance-Foundation/Awesome_AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [anusky95/FinAI](https://github.com/anusky95/FinAI) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [Open-Finance-Lab/FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [AI4Finance-Foundation/Awesome_FinRL](https://github.com/AI4Finance-Foundation/Awesome_FinRL) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [czyssrs/LLM_X_papers](https://github.com/czyssrs/LLM_X_papers) — 의 선행 분류 작업을 바탕으로 했습니다.
-- [masamasa59/ai-agent-papers](https://github.com/masamasa59/ai-agent-papers) — 의 선행 분류 작업을 바탕으로 했습니다.
+
+다음 리스트의 선행 분류 작업을 바탕으로 구축했습니다:
+
+- [AlanJiang98/Awesome-LLM-Trading](https://github.com/AlanJiang98/Awesome-LLM-Trading)
+- [DataArcTech/Awesome-FinLLMs](https://github.com/DataArcTech/Awesome-FinLLMs)
+- [Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation](https://github.com/Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation)
+- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
+- [leoncuhk/awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai)
+- [Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers)
+- [kennethleungty/Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs)
+- [AI4Finance-Foundation/Awesome_AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance)
+- [hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance)
+- [anusky95/FinAI](https://github.com/anusky95/FinAI)
+- [Open-Finance-Lab/FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard)
+- [AI4Finance-Foundation/Awesome_FinRL](https://github.com/AI4Finance-Foundation/Awesome_FinRL)
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant)
+- [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
+- [czyssrs/LLM_X_papers](https://github.com/czyssrs/LLM_X_papers)
+- [masamasa59/ai-agent-papers](https://github.com/masamasa59/ai-agent-papers)
 - **[Telegram OpenClaw 中文社区](https://t.me/OpenClaw_Group)** — Telegram의 중국어 OpenClaw 커뮤니티 — 지원과 논의에 감사드립니다.
 - **[Linux.do](https://linux.do)** — 중국어 개발자 및 기술 커뮤니티(Discourse) — 피드백과 확산에 감사드립니다.
 

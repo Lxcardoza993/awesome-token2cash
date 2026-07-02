@@ -10,23 +10,26 @@
 
 <a id="acknowledgments"></a>
 ## 🙏 Remerciements
-- [AlanJiang98/Awesome-LLM-Trading](https://github.com/AlanJiang98/Awesome-LLM-Trading) — sur lequel nous nous appuyons.
-- [DataArcTech/Awesome-FinLLMs](https://github.com/DataArcTech/Awesome-FinLLMs) — sur lequel nous nous appuyons.
-- [Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation](https://github.com/Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation) — sur lequel nous nous appuyons.
-- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) — sur lequel nous nous appuyons.
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) — sur lequel nous nous appuyons.
-- [leoncuhk/awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai) — sur lequel nous nous appuyons.
-- [Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers) — sur lequel nous nous appuyons.
-- [kennethleungty/Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs) — sur lequel nous nous appuyons.
-- [AI4Finance-Foundation/Awesome_AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance) — sur lequel nous nous appuyons.
-- [hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance) — sur lequel nous nous appuyons.
-- [anusky95/FinAI](https://github.com/anusky95/FinAI) — sur lequel nous nous appuyons.
-- [Open-Finance-Lab/FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard) — sur lequel nous nous appuyons.
-- [AI4Finance-Foundation/Awesome_FinRL](https://github.com/AI4Finance-Foundation/Awesome_FinRL) — sur lequel nous nous appuyons.
-- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) — sur lequel nous nous appuyons.
-- [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) — sur lequel nous nous appuyons.
-- [czyssrs/LLM_X_papers](https://github.com/czyssrs/LLM_X_papers) — sur lequel nous nous appuyons.
-- [masamasa59/ai-agent-papers](https://github.com/masamasa59/ai-agent-papers) — sur lequel nous nous appuyons.
+
+Nous nous appuyons sur le catalogage antérieur de ces listes :
+
+- [AlanJiang98/Awesome-LLM-Trading](https://github.com/AlanJiang98/Awesome-LLM-Trading)
+- [DataArcTech/Awesome-FinLLMs](https://github.com/DataArcTech/Awesome-FinLLMs)
+- [Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation](https://github.com/Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation)
+- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
+- [leoncuhk/awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai)
+- [Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers)
+- [kennethleungty/Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs)
+- [AI4Finance-Foundation/Awesome_AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance)
+- [hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance)
+- [anusky95/FinAI](https://github.com/anusky95/FinAI)
+- [Open-Finance-Lab/FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard)
+- [AI4Finance-Foundation/Awesome_FinRL](https://github.com/AI4Finance-Foundation/Awesome_FinRL)
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant)
+- [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
+- [czyssrs/LLM_X_papers](https://github.com/czyssrs/LLM_X_papers)
+- [masamasa59/ai-agent-papers](https://github.com/masamasa59/ai-agent-papers)
 - **[Telegram OpenClaw 中文社区](https://t.me/OpenClaw_Group)** — la communauté OpenClaw en chinois sur Telegram — merci pour le soutien et les discussions.
 - **[Linux.do](https://linux.do)** — une communauté de développeurs et de technophiles chinois (Discourse) — merci pour les retours et la visibilité.
 

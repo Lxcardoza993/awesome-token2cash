@@ -10,23 +10,26 @@
 
 <a id="acknowledgments"></a>
 ## 🙏 Acknowledgments
-- [AlanJiang98/Awesome-LLM-Trading](https://github.com/AlanJiang98/Awesome-LLM-Trading) — これらの先人による整理に基づいて構築しています。
-- [DataArcTech/Awesome-FinLLMs](https://github.com/DataArcTech/Awesome-FinLLMs) — これらの先人による整理に基づいて構築しています。
-- [Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation](https://github.com/Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation) — これらの先人による整理に基づいて構築しています。
-- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) — これらの先人による整理に基づいて構築しています。
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) — これらの先人による整理に基づいて構築しています。
-- [leoncuhk/awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai) — これらの先人による整理に基づいて構築しています。
-- [Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers) — これらの先人による整理に基づいて構築しています。
-- [kennethleungty/Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs) — これらの先人による整理に基づいて構築しています。
-- [AI4Finance-Foundation/Awesome_AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance) — これらの先人による整理に基づいて構築しています。
-- [hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance) — これらの先人による整理に基づいて構築しています。
-- [anusky95/FinAI](https://github.com/anusky95/FinAI) — これらの先人による整理に基づいて構築しています。
-- [Open-Finance-Lab/FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard) — これらの先人による整理に基づいて構築しています。
-- [AI4Finance-Foundation/Awesome_FinRL](https://github.com/AI4Finance-Foundation/Awesome_FinRL) — これらの先人による整理に基づいて構築しています。
-- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) — これらの先人による整理に基づいて構築しています。
-- [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) — これらの先人による整理に基づいて構築しています。
-- [czyssrs/LLM_X_papers](https://github.com/czyssrs/LLM_X_papers) — これらの先人による整理に基づいて構築しています。
-- [masamasa59/ai-agent-papers](https://github.com/masamasa59/ai-agent-papers) — これらの先人による整理に基づいて構築しています。
+
+これらのリストの先人による整理に基づいて構築しています：
+
+- [AlanJiang98/Awesome-LLM-Trading](https://github.com/AlanJiang98/Awesome-LLM-Trading)
+- [DataArcTech/Awesome-FinLLMs](https://github.com/DataArcTech/Awesome-FinLLMs)
+- [Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation](https://github.com/Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation)
+- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
+- [leoncuhk/awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai)
+- [Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers)
+- [kennethleungty/Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs)
+- [AI4Finance-Foundation/Awesome_AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance)
+- [hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance)
+- [anusky95/FinAI](https://github.com/anusky95/FinAI)
+- [Open-Finance-Lab/FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard)
+- [AI4Finance-Foundation/Awesome_FinRL](https://github.com/AI4Finance-Foundation/Awesome_FinRL)
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant)
+- [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
+- [czyssrs/LLM_X_papers](https://github.com/czyssrs/LLM_X_papers)
+- [masamasa59/ai-agent-papers](https://github.com/masamasa59/ai-agent-papers)
 - **[Telegram OpenClaw 中文社区](https://t.me/OpenClaw_Group)** — Telegram上の中国語OpenClawコミュニティ — 議論とサポートに感謝します。
 - **[Linux.do](https://linux.do)** — 中国語の開発者＆技術コミュニティ（Discourse） — フィードバックと拡散に感謝します。
 
