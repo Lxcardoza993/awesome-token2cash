@@ -33,7 +33,7 @@
 - **[Telegram OpenClaw 中文社区](https://t.me/OpenClaw_Group)** — Telegram上の中国語OpenClawコミュニティ — 議論とサポートに感謝します。
 - **[Linux.do](https://linux.do)** — 中国語の開発者＆技術コミュニティ（Discourse） — フィードバックと拡散に感謝します。
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg) ![Tools](https://img.shields.io/badge/tools-94%2B-blue) ![Focus: Multi-Agent + LLM Stocks](https://img.shields.io/badge/focus-Multi--Agent%20%2B%20LLM%20stocks-purple) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) [![Telegram](https://img.shields.io/badge/Telegram-OpenClaw-2AABEE?style=flat&logo=telegram&logoColor=white)](https://t.me/OpenClaw_Group)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg) ![Tools](https://img.shields.io/badge/tools-83-blue) ![Focus: Multi-Agent + LLM Stocks](https://img.shields.io/badge/focus-Multi--Agent%20%2B%20LLM%20stocks-purple) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) [![Telegram](https://img.shields.io/badge/Telegram-OpenClaw-2AABEE?style=flat&logo=telegram&logoColor=white)](https://t.me/OpenClaw_Group)
 
 ---
 
