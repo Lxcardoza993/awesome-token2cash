@@ -58,113 +58,127 @@
 <a id="foundation-llms"></a>
 ## 1. 🏛️ Базовые финансовые LLM
 
-- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ `20.8k` `Jupyter Notebook` `MIT` — Открытый финансовый LLM-фреймворк с данными, дообучением, RL и торговыми приложениями.
-- [XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan) ⭐ `1.3k` `Python` `—` — Китайская большая языковая модель для финансового диалога от Duxiaoman.
-- [DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM) ⭐ `888` `Python` `Apache-2.0` — Китайская финансовая LLM для профессионального финансового консультирования.
-- [PIXIU](https://github.com/The-FinAI/PIXIU) ⭐ `872` `Jupyter Notebook` `MIT` — Финансовые LLM, данные для инструкционной настройки и комплексные бенчмарки.
-- [InvestLM](https://github.com/AbaciNLP/InvestLM) ⭐ `153` `Python` `—` — Большая языковая модель, ориентированная на финансы и инвестиции.
-- [CFGPT](https://github.com/TongjiFinLab/CFGPT) ⭐ `91` `Python` `Apache-2.0` — Китайский финансовый ассистент на основе большой языковой модели.
-- [BloombergGPT_zh](https://github.com/sunshineyg2018/BloombergGPT_zh) ⭐ `58` `—` `—` — Китайская реализация/воспроизведение BloombergGPT.
-- [FinRAG](https://github.com/AI4Finance-Foundation/FinRAG) ⭐ `53` `Python` `Apache-2.0` — Система генерации с извлечением для финансовых доменов.
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | Открытый финансовый LLM-фреймворк с данными, дообучением, RL и торговыми приложениями. | 20.8k | `Jupyter Notebook` | `MIT` |
+| [XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan) | Китайская большая языковая модель для финансового диалога от Duxiaoman. | 1.3k | `Python` | `—` |
+| [DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM) | Китайская финансовая LLM для профессионального финансового консультирования. | 888 | `Python` | `Apache-2.0` |
+| [PIXIU](https://github.com/The-FinAI/PIXIU) | Финансовые LLM, данные для инструкционной настройки и комплексные бенчмарки. | 872 | `Jupyter Notebook` | `MIT` |
+| [InvestLM](https://github.com/AbaciNLP/InvestLM) | Большая языковая модель, ориентированная на финансы и инвестиции. | 153 | `Python` | `—` |
+| [CFGPT](https://github.com/TongjiFinLab/CFGPT) | Китайский финансовый ассистент на основе большой языковой модели. | 91 | `Python` | `Apache-2.0` |
+| [BloombergGPT_zh](https://github.com/sunshineyg2018/BloombergGPT_zh) | Китайская реализация/воспроизведение BloombergGPT. | 58 | `—` | `—` |
+| [FinRAG](https://github.com/AI4Finance-Foundation/FinRAG) | Система генерации с извлечением для финансовых доменов. | 53 | `Python` | `Apache-2.0` |
 
 <a id="multi-agent"></a>
 ## 2. 🤖 Мультиагентные фреймворки для торговли и анализа
 
-- [TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ `90.3k` `Python` `Apache-2.0` — Мультиагентный LLM-фреймворк для торговли, имитирующий специализированные роли в торговой фирме.
-- [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) ⭐ `7.4k` `Jupyter Notebook` `Apache-2.0` — Открытая платформа ИИ-агентов для финансового анализа на основе LLM.
-- [TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock) ⭐ `1.6k` `Python` `Apache-2.0` — Мультиагентный исследовательский фреймворк для акций A-shares на базе TradingAgents.
-- [AgenticTrading](https://github.com/Open-Finance-Lab/AgenticTrading) ⭐ `260` `Python` `NOASSERTION` — Открытая платформа для торговых агентов на базе LLM и бэктестинга.
-- [AlpacaTradingAgent](https://github.com/huygiatrng/AlpacaTradingAgent) ⭐ `238` `Python` `Apache-2.0` — Мультиагентный LLM-фреймворк для торговли, интегрированный с Alpaca для реальных сделок.
-- [MarketAgents](https://github.com/marketagents-ai/MarketAgents) ⭐ `116` `Python` `—` — Фреймворк оркестрации экономических ИИ-агентов и рыночных симуляций.
-- [LLM-Economist](https://github.com/sethkarten/LLM-Economist) ⭐ `114` `Python` `MIT` — Мультиагентная симуляция с большим числом LLM для механизмов и налоговой политики.
-- [ai-economist](https://github.com/salesforce/ai-economist) ⭐ `110` `Python` `BSD-3-Clause` — Мультиагентный RL-фреймворк для социально-экономического поведения и проектирования политики.
-- [orallexa-ai-trading-agent](https://github.com/alex-jb/orallexa-ai-trading-agent) ⭐ `52` `Python` `MIT` — Самонастраиваемая мультиагентная торговая система с дебатами бык/медведь/судья.
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | Мультиагентный LLM-фреймворк для торговли, имитирующий специализированные роли в торговой фирме. | 90.3k | `Python` | `Apache-2.0` |
+| [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | Открытая платформа ИИ-агентов для финансового анализа на основе LLM. | 7.4k | `Jupyter Notebook` | `Apache-2.0` |
+| [TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock) | Мультиагентный исследовательский фреймворк для акций A-shares на базе TradingAgents. | 1.6k | `Python` | `Apache-2.0` |
+| [AgenticTrading](https://github.com/Open-Finance-Lab/AgenticTrading) | Открытая платформа для торговых агентов на базе LLM и бэктестинга. | 260 | `Python` | `NOASSERTION` |
+| [AlpacaTradingAgent](https://github.com/huygiatrng/AlpacaTradingAgent) | Мультиагентный LLM-фреймворк для торговли, интегрированный с Alpaca для реальных сделок. | 238 | `Python` | `Apache-2.0` |
+| [MarketAgents](https://github.com/marketagents-ai/MarketAgents) | Фреймворк оркестрации экономических ИИ-агентов и рыночных симуляций. | 116 | `Python` | `—` |
+| [LLM-Economist](https://github.com/sethkarten/LLM-Economist) | Мультиагентная симуляция с большим числом LLM для механизмов и налоговой политики. | 114 | `Python` | `MIT` |
+| [ai-economist](https://github.com/salesforce/ai-economist) | Мультиагентный RL-фреймворк для социально-экономического поведения и проектирования политики. | 110 | `Python` | `BSD-3-Clause` |
+| [orallexa-ai-trading-agent](https://github.com/alex-jb/orallexa-ai-trading-agent) | Самонастраиваемая мультиагентная торговая система с дебатами бык/медведь/судья. | 52 | `Python` | `MIT` |
 
 <a id="stock-analysis"></a>
 ## 3. 📈 LLM для анализа акций, прогнозирования и исследовательских отчётов
 
-- [deep-research-machine](https://github.com/druce/deep-research-machine) ⭐ `11` `Python` `—` — Асинхронный пайплайн исследования акций с использованием LLM.
-- [AI-Stock-Analyst-Agent-Langchain-Deepseek](https://github.com/Bisma-Shafiq/AI-Stock-Analyst-Agent-Langchain-Deepseek) ⭐ `7` `Python` `—` — Агент на LangChain/DeepSeek для анализа акций.
-- [openbb-rag-financial-research-agent](https://github.com/sandole/openbb-rag-financial-research-agent) ⭐ `7` `Python` `—` — RAG-агент для SEC-документов и финансовых исследований.
-- [stock_research_agent](https://github.com/druce/stock_research_agent) ⭐ `3` `Python` `—` — Генерация исследовательского отчёта по акциям через Claude agent SDK.
-- [multi-horizon-financial-agent](https://github.com/srx7703/multi-horizon-financial-agent) ⭐ `2` `Python` `MIT` — Агент с использованием инструментов, синтезирующий SEC- и рыночные брифы.
-- [stockgpt](https://github.com/ESJavadex/stockgpt) ⭐ `2` `Python` `MIT` — Анализ акций и генерация инвестиционных отчётов с помощью GPT-4.
-- [StockerLens](https://github.com/Aswin-Cheerngodan/StockerLens) ⭐ `1` `Jupyter Notebook` `—` — Мультимодальное прогнозирование цен акций с сентимент-анализом и анализом графиков.
-- [stock_signal_analyzer](https://github.com/mmovsesyan/stock_signal_analyzer) ⭐ `1` `Python` `—` — Самообучающаяся система для акций с сентимент-анализом новостей через LLM и планированием.
-- [daily_stock_analysis](https://github.com/chief0714/daily_stock_analysis) ⭐ `1` `Python` `MIT` — Ежедневный мульти-рынковый анализ акций на базе LLM.
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [deep-research-machine](https://github.com/druce/deep-research-machine) | Асинхронный пайплайн исследования акций с использованием LLM. | 11 | `Python` | `—` |
+| [AI-Stock-Analyst-Agent-Langchain-Deepseek](https://github.com/Bisma-Shafiq/AI-Stock-Analyst-Agent-Langchain-Deepseek) | Агент на LangChain/DeepSeek для анализа акций. | 7 | `Python` | `—` |
+| [openbb-rag-financial-research-agent](https://github.com/sandole/openbb-rag-financial-research-agent) | RAG-агент для SEC-документов и финансовых исследований. | 7 | `Python` | `—` |
+| [stock_research_agent](https://github.com/druce/stock_research_agent) | Генерация исследовательского отчёта по акциям через Claude agent SDK. | 3 | `Python` | `—` |
+| [multi-horizon-financial-agent](https://github.com/srx7703/multi-horizon-financial-agent) | Агент с использованием инструментов, синтезирующий SEC- и рыночные брифы. | 2 | `Python` | `MIT` |
+| [stockgpt](https://github.com/ESJavadex/stockgpt) | Анализ акций и генерация инвестиционных отчётов с помощью GPT-4. | 2 | `Python` | `MIT` |
+| [StockerLens](https://github.com/Aswin-Cheerngodan/StockerLens) | Мультимодальное прогнозирование цен акций с сентимент-анализом и анализом графиков. | 1 | `Jupyter Notebook` | `—` |
+| [stock_signal_analyzer](https://github.com/mmovsesyan/stock_signal_analyzer) | Самообучающаяся система для акций с сентимент-анализом новостей через LLM и планированием. | 1 | `Python` | `—` |
+| [daily_stock_analysis](https://github.com/chief0714/daily_stock_analysis) | Ежедневный мульти-рынковый анализ акций на базе LLM. | 1 | `Python` | `MIT` |
 
 <a id="sentiment-nlp"></a>
 ## 4. 📰 Финансовый сентимент и NLP для новостей/соцсетей
 
-- [finBERT](https://github.com/ProsusAI/finBERT) ⭐ `2.2k` `Jupyter Notebook` `Apache-2.0` — BERT-классификатор финансового сентимента для новостей и документов.
-- [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) ⭐ `1.5k` `Jupyter Notebook` `MIT` — Библиотека финансового NLP для масштабных рыночных текстов.
-- [FinBERT](https://github.com/valuesimplex/FinBERT) ⭐ `925` `Python` `MIT` — Реализация FinBERT для классификации финансовых текстов.
-- [FinBERT](https://github.com/yya518/FinBERT) ⭐ `657` `Jupyter Notebook` `Apache-2.0` — Предобученный BERT для сентимента финансовых коммуникаций.
-- [StockEmotions](https://github.com/adlnlp/StockEmotions) ⭐ `95` `Jupyter Notebook` `—` — Датасет и код для эмоций инвесторов и финансового сентимента.
-- [finnlp-sentiment](https://github.com/nlp-chula/finnlp-sentiment) ⭐ `26` `Python` `—` — Тайские инструменты и модели для финансового сентимент-анализа.
-- [twitter-alpha-sentiment-tracker-v2](https://github.com/Rezzecup/twitter-alpha-sentiment-tracker-v2) ⭐ `21` `Python` `—` — Трекер сентимента smart-money в X/Twitter в реальном времени.
-- [Aspect-based-Financial-Sentiment-Analysis](https://github.com/ashishsalunkhe/Aspect-based-Financial-Sentiment-Analysis) ⭐ `11` `Jupyter Notebook` `—` — Aspect-based решение для финансового сентимента в рамках FiQA.
-- [FinChina-SA](https://github.com/YerayL/FinChina-SA) ⭐ `7` `Python` `Apache-2.0` — Китайский датасет с детальным финансовым сентиментом и код.
-- [earnings-edge](https://github.com/suhaas/earnings-edge) ⭐ `6` `Python` `—` — Мультиагентное приложение на LangGraph для аналитических брифов по транскриптам прибыли.
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [finBERT](https://github.com/ProsusAI/finBERT) | BERT-классификатор финансового сентимента для новостей и документов. | 2.2k | `Jupyter Notebook` | `Apache-2.0` |
+| [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) | Библиотека финансового NLP для масштабных рыночных текстов. | 1.5k | `Jupyter Notebook` | `MIT` |
+| [FinBERT](https://github.com/valuesimplex/FinBERT) | Реализация FinBERT для классификации финансовых текстов. | 925 | `Python` | `MIT` |
+| [FinBERT](https://github.com/yya518/FinBERT) | Предобученный BERT для сентимента финансовых коммуникаций. | 657 | `Jupyter Notebook` | `Apache-2.0` |
+| [StockEmotions](https://github.com/adlnlp/StockEmotions) | Датасет и код для эмоций инвесторов и финансового сентимента. | 95 | `Jupyter Notebook` | `—` |
+| [finnlp-sentiment](https://github.com/nlp-chula/finnlp-sentiment) | Тайские инструменты и модели для финансового сентимент-анализа. | 26 | `Python` | `—` |
+| [twitter-alpha-sentiment-tracker-v2](https://github.com/Rezzecup/twitter-alpha-sentiment-tracker-v2) | Трекер сентимента smart-money в X/Twitter в реальном времени. | 21 | `Python` | `—` |
+| [Aspect-based-Financial-Sentiment-Analysis](https://github.com/ashishsalunkhe/Aspect-based-Financial-Sentiment-Analysis) | Aspect-based решение для финансового сентимента в рамках FiQA. | 11 | `Jupyter Notebook` | `—` |
+| [FinChina-SA](https://github.com/YerayL/FinChina-SA) | Китайский датасет с детальным финансовым сентиментом и код. | 7 | `Python` | `Apache-2.0` |
+| [earnings-edge](https://github.com/suhaas/earnings-edge) | Мультиагентное приложение на LangGraph для аналитических брифов по транскриптам прибыли. | 6 | `Python` | `—` |
 
 <a id="trading-bots"></a>
 ## 5. 💹 LLM/агентные торговые боты и бэктестинг
 
-- [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) ⭐ `60.7k` `Python` `MIT` — Мультиагентный LLM-фонд, моделирующий инвесторские персоны для принятия решений об акциях.
-- [AI-Trader](https://github.com/HKUDS/AI-Trader) ⭐ `20.3k` `Python` `—` — Полностью автоматизированная торговая платформа для ИИ-агентов.
-- [Qbot](https://github.com/UFund-Me/Qbot) ⭐ `17.9k` `Jupyter Notebook` `MIT` — Платформа для квантовых инвестиций и автоторговли на базе ИИ.
-- [FinRL](https://github.com/AI4Finance-Foundation/FinRL) ⭐ `15.6k` `Jupyter Notebook` `MIT` — Библиотека финансового обучения с подкреплением и экосистема торговых агентов.
-- [FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) ⭐ `3.4k` `Python` `Apache-2.0` — ИИ-нативная модульная инфраструктура квантовой торговли с бэктестингом.
-- [FinMem-LLM-StockTrading](https://github.com/pipiku915/FinMem-LLM-StockTrading) ⭐ `918` `Python` `MIT` — LLM-агент для торговли акциями с иерархической памятью и продуманным характером.
-- [Stockagent](https://github.com/MingyuJ666/Stockagent) ⭐ `680` `Python` `—` — Торговля акциями на основе LLM в симулированных реальных рыночных условиях.
-- [llm-agent-trader](https://github.com/jason8745/llm-agent-trader) ⭐ `375` `Python` `MIT` — Система бэктестинга торговли акциями с LLM-анализом решений.
-- [FinRL_DeepSeek](https://github.com/benstaf/FinRL_DeepSeek) ⭐ `329` `Jupyter Notebook` `MIT` — Обучение с подкреплением с учётом риска и интеграцией LLM для торговых агентов.
-- [LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot) ⭐ `296` `Python` `MIT` — Мультиагентная ИИ-торговая система, использующая LLM для адаптации в реальном времени.
-- [TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) ⭐ `195` `Python` `MIT` — Мультиагентный LLM-фреймворк для социально-экономического моделирования рынка.
-- [robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot) ⭐ `118` `Python` `MIT` — Торговый бот на базе ИИ, интегрированный с Robinhood.
-- [FinAgent](https://github.com/DVampire/FinAgent) ⭐ `75` `Python` `MIT` — Мультимодальный базовый агент для финансовой торговли с LLM, расширенной инструментами.
-- [AutoTrader-AgentEdge](https://github.com/iAmGiG/AutoTrader-AgentEdge) ⭐ `18` `Python` `AGPL-3.0` — Продакшн-мультиагентная торговая платформа с прямой валидацией (walk-forward).
-- [Auto-Trader](https://github.com/Itachi-Uchiha581/Auto-Trader) ⭐ `14` `Python` `MIT` — Торговый бот на базе LLM, автоматически исполняющий сделки.
-- [trade-agent](https://github.com/mocasus/trade-agent) ⭐ `8` `Python` `MIT` — Модульный ИИ-торговый агент, использующий LLM для рынка, новостей и индикаторов.
-- [ai-hedge-fund](https://github.com/zhound420/ai-hedge-fund) ⭐ `0` `Python` `—` — Мультиагентный хедж-фонд с бумажной торговлей Alpaca и LLM-аналитиками.
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Мультиагентный LLM-фонд, моделирующий инвесторские персоны для принятия решений об акциях. | 60.7k | `Python` | `MIT` |
+| [AI-Trader](https://github.com/HKUDS/AI-Trader) | Полностью автоматизированная торговая платформа для ИИ-агентов. | 20.3k | `Python` | `—` |
+| [Qbot](https://github.com/UFund-Me/Qbot) | Платформа для квантовых инвестиций и автоторговли на базе ИИ. | 17.9k | `Jupyter Notebook` | `MIT` |
+| [FinRL](https://github.com/AI4Finance-Foundation/FinRL) | Библиотека финансового обучения с подкреплением и экосистема торговых агентов. | 15.6k | `Jupyter Notebook` | `MIT` |
+| [FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) | ИИ-нативная модульная инфраструктура квантовой торговли с бэктестингом. | 3.4k | `Python` | `Apache-2.0` |
+| [FinMem-LLM-StockTrading](https://github.com/pipiku915/FinMem-LLM-StockTrading) | LLM-агент для торговли акциями с иерархической памятью и продуманным характером. | 918 | `Python` | `MIT` |
+| [Stockagent](https://github.com/MingyuJ666/Stockagent) | Торговля акциями на основе LLM в симулированных реальных рыночных условиях. | 680 | `Python` | `—` |
+| [llm-agent-trader](https://github.com/jason8745/llm-agent-trader) | Система бэктестинга торговли акциями с LLM-анализом решений. | 375 | `Python` | `MIT` |
+| [FinRL_DeepSeek](https://github.com/benstaf/FinRL_DeepSeek) | Обучение с подкреплением с учётом риска и интеграцией LLM для торговых агентов. | 329 | `Jupyter Notebook` | `MIT` |
+| [LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot) | Мультиагентная ИИ-торговая система, использующая LLM для адаптации в реальном времени. | 296 | `Python` | `MIT` |
+| [TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) | Мультиагентный LLM-фреймворк для социально-экономического моделирования рынка. | 195 | `Python` | `MIT` |
+| [robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot) | Торговый бот на базе ИИ, интегрированный с Robinhood. | 118 | `Python` | `MIT` |
+| [FinAgent](https://github.com/DVampire/FinAgent) | Мультимодальный базовый агент для финансовой торговли с LLM, расширенной инструментами. | 75 | `Python` | `MIT` |
+| [AutoTrader-AgentEdge](https://github.com/iAmGiG/AutoTrader-AgentEdge) | Продакшн-мультиагентная торговая платформа с прямой валидацией (walk-forward). | 18 | `Python` | `AGPL-3.0` |
+| [Auto-Trader](https://github.com/Itachi-Uchiha581/Auto-Trader) | Торговый бот на базе LLM, автоматически исполняющий сделки. | 14 | `Python` | `MIT` |
+| [trade-agent](https://github.com/mocasus/trade-agent) | Модульный ИИ-торговый агент, использующий LLM для рынка, новостей и индикаторов. | 8 | `Python` | `MIT` |
+| [ai-hedge-fund](https://github.com/zhound420/ai-hedge-fund) | Мультиагентный хедж-фонд с бумажной торговлей Alpaca и LLM-аналитиками. | 0 | `Python` | `—` |
 
 <a id="learning"></a>
 ## 6. 🎓 Образовательные платформы
 
-- [finllm-apps](https://github.com/tinztwins/finllm-apps) ⭐ `152` `Python` `MIT` — Коллекция открытых FinLLM-приложений и демо.
-- [Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs) ⭐ `129` `—` `MIT` — Подборка реальных внедрений LLM в финансовых сервисах.
-- [finLLM](https://github.com/ArchishmanSengupta/finLLM) ⭐ `7` `Python` `—` — Конверсационная FinLLM-демо на основе финансовой энциклопедии.
-- [AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) ⭐ `6` `TypeScript` `—` — ИИ-чатбот для фондового рынка на Next.js и OpenAI.
-- [finLLM](https://github.com/Entropov/finLLM) ⭐ `1` `Python` `—` — Экспериментальный FinLLM-преподаватель для Q&A по финансам.
-- [FinancialLiteracyChatbot](https://github.com/24prathamesh2004/FinancialLiteracyChatbot) ⭐ `2` `HTML` `—` — Конверсационный чатбот для финансовой грамотности: личные финансы и основы инвестирования.
-- [FinWise](https://github.com/aadithya2007/FinWise) ⭐ `1` `JavaScript` `—` — Конверсационный ассистент для обучения финансовой грамотности и основам инвестирования.
-- [financial-literacy-chatbot](https://github.com/sparsh-j01/financial-literacy-chatbot) ⭐ `1` `HTML` `—` — Двуязычный чатбот финансовой грамотности на Google Gemini.
-- [ArthSakhi](https://github.com/SmritiD2004/ArthSakhi) ⭐ `1` `Python` `—` — Чатбот финансовой грамотности для женщин в Индии.
-- [AI_FinancialTutor](https://github.com/NaniSkinner/AI_FinancialTutor) ⭐ `0` `TypeScript` `—` — ИИ-репетитор для интерактивного обучения инвестициям и финансам.
-- [FinancialLiteracyChatbot](https://github.com/premnath228004/FinancialLiteracyChatbot) ⭐ `0` `Python` `—` — Двуязычный чатбот финансовой грамотности с CLI и доступом через WhatsApp.
-- [financial-literacy-bot](https://github.com/Collin17Muse/financial-literacy-bot) ⭐ `0` `HTML` `—` — Интерактивный чатбот финансовой грамотности с обучением, тестами и отслеживанием прогресса.
-- [Multilingual_financial_Chatbot](https://github.com/Indhumathi-RA/Multilingual_financial_Chatbot) ⭐ `0` `Jupyter Notebook` `—` — Мультиязычный RAG-чатбот для гонконгских финансовых концепций.
-- [syf-finlit-agent](https://github.com/SidharthAnand04/syf-finlit-agent) ⭐ `0` `TypeScript` `—` — ИИ-агент для объяснения кредитных продуктов и повышения финансовой грамотности.
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [finllm-apps](https://github.com/tinztwins/finllm-apps) | Коллекция открытых FinLLM-приложений и демо. | 152 | `Python` | `MIT` |
+| [Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs) | Подборка реальных внедрений LLM в финансовых сервисах. | 129 | `—` | `MIT` |
+| [finLLM](https://github.com/ArchishmanSengupta/finLLM) | Конверсационная FinLLM-демо на основе финансовой энциклопедии. | 7 | `Python` | `—` |
+| [AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) | ИИ-чатбот для фондового рынка на Next.js и OpenAI. | 6 | `TypeScript` | `—` |
+| [finLLM](https://github.com/Entropov/finLLM) | Экспериментальный FinLLM-преподаватель для Q&A по финансам. | 1 | `Python` | `—` |
+| [FinancialLiteracyChatbot](https://github.com/24prathamesh2004/FinancialLiteracyChatbot) | Конверсационный чатбот для финансовой грамотности: личные финансы и основы инвестирования. | 2 | `HTML` | `—` |
+| [FinWise](https://github.com/aadithya2007/FinWise) | Конверсационный ассистент для обучения финансовой грамотности и основам инвестирования. | 1 | `JavaScript` | `—` |
+| [financial-literacy-chatbot](https://github.com/sparsh-j01/financial-literacy-chatbot) | Двуязычный чатбот финансовой грамотности на Google Gemini. | 1 | `HTML` | `—` |
+| [ArthSakhi](https://github.com/SmritiD2004/ArthSakhi) | Чатбот финансовой грамотности для женщин в Индии. | 1 | `Python` | `—` |
+| [AI_FinancialTutor](https://github.com/NaniSkinner/AI_FinancialTutor) | ИИ-репетитор для интерактивного обучения инвестициям и финансам. | 0 | `TypeScript` | `—` |
+| [FinancialLiteracyChatbot](https://github.com/premnath228004/FinancialLiteracyChatbot) | Двуязычный чатбот финансовой грамотности с CLI и доступом через WhatsApp. | 0 | `Python` | `—` |
+| [financial-literacy-bot](https://github.com/Collin17Muse/financial-literacy-bot) | Интерактивный чатбот финансовой грамотности с обучением, тестами и отслеживанием прогресса. | 0 | `HTML` | `—` |
+| [Multilingual_financial_Chatbot](https://github.com/Indhumathi-RA/Multilingual_financial_Chatbot) | Мультиязычный RAG-чатбот для гонконгских финансовых концепций. | 0 | `Jupyter Notebook` | `—` |
+| [syf-finlit-agent](https://github.com/SidharthAnand04/syf-finlit-agent) | ИИ-агент для объяснения кредитных продуктов и повышения финансовой грамотности. | 0 | `TypeScript` | `—` |
 
 <a id="datasets"></a>
 ## 7. 📊 Датасеты и бенчмарки
 
-- [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) ⭐ `1.9k` `Python` `MIT` — Динамические датасеты и рыночные среды для финансового RL.
-- [FNSPID_Financial_News_Dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset) ⭐ `432` `Python` `NOASSERTION` — Крупный датасет финансовых новостей и цен акций S&P 500 для временных рядов.
-- [FinLLMs](https://github.com/adlnlp/FinLLMs) ⭐ `380` `—` `—` — Бенчмарки и датасеты для статьи Large Language Models in Finance.
-- [financebench](https://github.com/patronus-ai/financebench) ⭐ `332` `Jupyter Notebook` `—` — Бенчмарк с открытым источником для финансового QA с LLM.
-- [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval) ⭐ `278` `Python` `Apache-2.0` — Китайский финансовый бенчмарк с 26 000+ вопросов для оценки LLM.
-- [live-trade-bench](https://github.com/ulab-uiuc/live-trade-bench) ⭐ `160` `Python` `NOASSERTION` — Бенчмарк для оценки торговых агентов в реальном времени.
-- [BizFinBench](https://github.com/HiThink-Research/BizFinBench) ⭐ `167` `Python` `—` — Бизнес-ориентированный реальный финансовый бенчмарк для LLM.
-- [cflue](https://github.com/aliyun/cflue) ⭐ `91` `Python` `—` — Китайский бенчмарк понимания финансового языка для LLM.
-- [FinLoRA](https://github.com/Open-Finance-Lab/FinLoRA) ⭐ `66` `Python` `NOASSERTION` — Бенчмаркинг LoRA для дообучения LLM на финансовых данных.
-- [FLANG](https://github.com/SALT-NLP/FLANG) ⭐ `57` `Python` `Apache-2.0` — Предобученная модель для финансового домена и набор бенчмарков FLUE.
-- [CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) ⭐ `55` `Python` `Apache-2.0` — Китайский бенчмарк финансового ассистента для больших языковых моделей.
-- [FinMTEB](https://github.com/yixuantt/FinMTEB) ⭐ `54` `Python` `—` — Финансовый масштабный бенчмарк текстовых эмбеддингов на 64 датасетах.
-- [FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard) ⭐ `26` `Jupyter Notebook` `MIT` — Лидерборд для оценки финансовых LLM и агентов.
-- [CNFinBench](https://github.com/open-compass/CNFinBench) ⭐ `16` `Python` `—` — Комплексный высокорисковый китайский финансовый бенчмарк с цепочками агентов.
-- [FinBen](https://github.com/The-FinAI/FinBen) ⭐ `15` `Python` `—` — Комплексный набор бенчмарков для оценки LLM на финансовых задачах.
-- [FinanceQA](https://github.com/AfterQuery/FinanceQA) ⭐ `8` `—` `—` — Бенчмарк для оценки возможностей LLM в финансовом анализе.
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) | Динамические датасеты и рыночные среды для финансового RL. | 1.9k | `Python` | `MIT` |
+| [FNSPID_Financial_News_Dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset) | Крупный датасет финансовых новостей и цен акций S&P 500 для временных рядов. | 432 | `Python` | `NOASSERTION` |
+| [FinLLMs](https://github.com/adlnlp/FinLLMs) | Бенчмарки и датасеты для статьи Large Language Models in Finance. | 380 | `—` | `—` |
+| [financebench](https://github.com/patronus-ai/financebench) | Бенчмарк с открытым источником для финансового QA с LLM. | 332 | `Jupyter Notebook` | `—` |
+| [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval) | Китайский финансовый бенчмарк с 26 000+ вопросов для оценки LLM. | 278 | `Python` | `Apache-2.0` |
+| [live-trade-bench](https://github.com/ulab-uiuc/live-trade-bench) | Бенчмарк для оценки торговых агентов в реальном времени. | 160 | `Python` | `NOASSERTION` |
+| [BizFinBench](https://github.com/HiThink-Research/BizFinBench) | Бизнес-ориентированный реальный финансовый бенчмарк для LLM. | 167 | `Python` | `—` |
+| [cflue](https://github.com/aliyun/cflue) | Китайский бенчмарк понимания финансового языка для LLM. | 91 | `Python` | `—` |
+| [FinLoRA](https://github.com/Open-Finance-Lab/FinLoRA) | Бенчмаркинг LoRA для дообучения LLM на финансовых данных. | 66 | `Python` | `NOASSERTION` |
+| [FLANG](https://github.com/SALT-NLP/FLANG) | Предобученная модель для финансового домена и набор бенчмарков FLUE. | 57 | `Python` | `Apache-2.0` |
+| [CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) | Китайский бенчмарк финансового ассистента для больших языковых моделей. | 55 | `Python` | `Apache-2.0` |
+| [FinMTEB](https://github.com/yixuantt/FinMTEB) | Финансовый масштабный бенчмарк текстовых эмбеддингов на 64 датасетах. | 54 | `Python` | `—` |
+| [FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard) | Лидерборд для оценки финансовых LLM и агентов. | 26 | `Jupyter Notebook` | `MIT` |
+| [CNFinBench](https://github.com/open-compass/CNFinBench) | Комплексный высокорисковый китайский финансовый бенчмарк с цепочками агентов. | 16 | `Python` | `—` |
+| [FinBen](https://github.com/The-FinAI/FinBen) | Комплексный набор бенчмарков для оценки LLM на финансовых задачах. | 15 | `Python` | `—` |
+| [FinanceQA](https://github.com/AfterQuery/FinanceQA) | Бенчмарк для оценки возможностей LLM в финансовом анализе. | 8 | `—` | `—` |
 
 <a id="papers"></a>
 ## 8. 🧪 Исследовательские статьи с кодом

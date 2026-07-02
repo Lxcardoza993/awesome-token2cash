@@ -58,113 +58,127 @@
 <a id="foundation-llms"></a>
 ## 1. 🏛️ 基础金融大语言模型
 
-- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ `20.8k` `Jupyter Notebook` `MIT` — 开源金融 LLM 框架，涵盖数据、微调、强化学习与交易应用。
-- [XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan) ⭐ `1.3k` `Python` `—` — 度小满推出的中文金融对话大语言模型。
-- [DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM) ⭐ `888` `Python` `Apache-2.0` — 面向专业金融咨询的中文金融大语言模型。
-- [PIXIU](https://github.com/The-FinAI/PIXIU) ⭐ `872` `Jupyter Notebook` `MIT` — 金融 LLM、指令微调数据与综合评测基准。
-- [InvestLM](https://github.com/AbaciNLP/InvestLM) ⭐ `153` `Python` `—` — 专注于金融与投资的大型语言模型。
-- [CFGPT](https://github.com/TongjiFinLab/CFGPT) ⭐ `91` `Python` `Apache-2.0` — 基于大语言模型的中文金融助手。
-- [BloombergGPT_zh](https://github.com/sunshineyg2018/BloombergGPT_zh) ⭐ `58` `—` `—` — BloombergGPT 的中文复现/实现。
-- [FinRAG](https://github.com/AI4Finance-Foundation/FinRAG) ⭐ `53` `Python` `Apache-2.0` — 面向金融领域的检索增强生成系统。
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | 开源金融 LLM 框架，涵盖数据、微调、强化学习与交易应用。 | 20.8k | `Jupyter Notebook` | `MIT` |
+| [XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan) | 度小满推出的中文金融对话大语言模型。 | 1.3k | `Python` | `—` |
+| [DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM) | 面向专业金融咨询的中文金融大语言模型。 | 888 | `Python` | `Apache-2.0` |
+| [PIXIU](https://github.com/The-FinAI/PIXIU) | 金融 LLM、指令微调数据与综合评测基准。 | 872 | `Jupyter Notebook` | `MIT` |
+| [InvestLM](https://github.com/AbaciNLP/InvestLM) | 专注于金融与投资的大型语言模型。 | 153 | `Python` | `—` |
+| [CFGPT](https://github.com/TongjiFinLab/CFGPT) | 基于大语言模型的中文金融助手。 | 91 | `Python` | `Apache-2.0` |
+| [BloombergGPT_zh](https://github.com/sunshineyg2018/BloombergGPT_zh) | BloombergGPT 的中文复现/实现。 | 58 | `—` | `—` |
+| [FinRAG](https://github.com/AI4Finance-Foundation/FinRAG) | 面向金融领域的检索增强生成系统。 | 53 | `Python` | `Apache-2.0` |
 
 <a id="multi-agent"></a>
 ## 2. 🤖 多智能体交易与分析框架
 
-- [TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ `90.3k` `Python` `Apache-2.0` — 模拟专业交易公司角色的多智能体 LLM 交易框架。
-- [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) ⭐ `7.4k` `Jupyter Notebook` `Apache-2.0` — 基于 LLM 的开源金融分析 AI 智能体平台。
-- [TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock) ⭐ `1.6k` `Python` `Apache-2.0` — 基于 TradingAgents 的 A 股多智能体投研框架。
-- [AgenticTrading](https://github.com/Open-Finance-Lab/AgenticTrading) ⭐ `260` `Python` `NOASSERTION` — 面向 LLM 驱动交易智能体与回测的开源平台。
-- [AlpacaTradingAgent](https://github.com/huygiatrng/AlpacaTradingAgent) ⭐ `238` `Python` `Apache-2.0` — 与 Alpaca 集成、支持实盘交易的多智能体 LLM 交易框架。
-- [MarketAgents](https://github.com/marketagents-ai/MarketAgents) ⭐ `116` `Python` `—` — 面向经济 AI 智能体与市场模拟的编排框架。
-- [LLM-Economist](https://github.com/sethkarten/LLM-Economist) ⭐ `114` `Python` `MIT` — 用于机制设计与税收政策的大规模 LLM 多智能体模拟。
-- [ai-economist](https://github.com/salesforce/ai-economist) ⭐ `110` `Python` `BSD-3-Clause` — 面向社会经济行为与政策设计的多智能体强化学习框架。
-- [orallexa-ai-trading-agent](https://github.com/alex-jb/orallexa-ai-trading-agent) ⭐ `52` `Python` `MIT` — 带牛市/熊市/裁判辩论机制的自适应多智能体交易系统。
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 模拟专业交易公司角色的多智能体 LLM 交易框架。 | 90.3k | `Python` | `Apache-2.0` |
+| [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | 基于 LLM 的开源金融分析 AI 智能体平台。 | 7.4k | `Jupyter Notebook` | `Apache-2.0` |
+| [TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock) | 基于 TradingAgents 的 A 股多智能体投研框架。 | 1.6k | `Python` | `Apache-2.0` |
+| [AgenticTrading](https://github.com/Open-Finance-Lab/AgenticTrading) | 面向 LLM 驱动交易智能体与回测的开源平台。 | 260 | `Python` | `NOASSERTION` |
+| [AlpacaTradingAgent](https://github.com/huygiatrng/AlpacaTradingAgent) | 与 Alpaca 集成、支持实盘交易的多智能体 LLM 交易框架。 | 238 | `Python` | `Apache-2.0` |
+| [MarketAgents](https://github.com/marketagents-ai/MarketAgents) | 面向经济 AI 智能体与市场模拟的编排框架。 | 116 | `Python` | `—` |
+| [LLM-Economist](https://github.com/sethkarten/LLM-Economist) | 用于机制设计与税收政策的大规模 LLM 多智能体模拟。 | 114 | `Python` | `MIT` |
+| [ai-economist](https://github.com/salesforce/ai-economist) | 面向社会经济行为与政策设计的多智能体强化学习框架。 | 110 | `Python` | `BSD-3-Clause` |
+| [orallexa-ai-trading-agent](https://github.com/alex-jb/orallexa-ai-trading-agent) | 带牛市/熊市/裁判辩论机制的自适应多智能体交易系统。 | 52 | `Python` | `MIT` |
 
 <a id="stock-analysis"></a>
 ## 3. 📈 LLM 股票分析、预测与研究报告
 
-- [deep-research-machine](https://github.com/druce/deep-research-machine) ⭐ `11` `Python` `—` — 使用 LLM 的异步股票研究流水线。
-- [AI-Stock-Analyst-Agent-Langchain-Deepseek](https://github.com/Bisma-Shafiq/AI-Stock-Analyst-Agent-Langchain-Deepseek) ⭐ `7` `Python` `—` — 基于 LangChain/DeepSeek 的股票分析智能体。
-- [openbb-rag-financial-research-agent](https://github.com/sandole/openbb-rag-financial-research-agent) ⭐ `7` `Python` `—` — 面向 SEC 文件与金融研究的 RAG 智能体。
-- [stock_research_agent](https://github.com/druce/stock_research_agent) ⭐ `3` `Python` `—` — 通过 Claude agent SDK 生成股票研究报告。
-- [multi-horizon-financial-agent](https://github.com/srx7703/multi-horizon-financial-agent) ⭐ `2` `Python` `MIT` — 综合 SEC 与市场研究简报的调用工具智能体。
-- [stockgpt](https://github.com/ESJavadex/stockgpt) ⭐ `2` `Python` `MIT` — 分析股票并生成 GPT-4 投资报告。
-- [StockerLens](https://github.com/Aswin-Cheerngodan/StockerLens) ⭐ `1` `Jupyter Notebook` `—` — 结合情感与图表分析的多模态股价预测。
-- [stock_signal_analyzer](https://github.com/mmovsesyan/stock_signal_analyzer) ⭐ `1` `Python` `—` — 基于 LLM 新闻情感与交易计划的自学股票系统。
-- [daily_stock_analysis](https://github.com/chief0714/daily_stock_analysis) ⭐ `1` `Python` `MIT` — 基于 LLM 的每日多市场股票分析。
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [deep-research-machine](https://github.com/druce/deep-research-machine) | 使用 LLM 的异步股票研究流水线。 | 11 | `Python` | `—` |
+| [AI-Stock-Analyst-Agent-Langchain-Deepseek](https://github.com/Bisma-Shafiq/AI-Stock-Analyst-Agent-Langchain-Deepseek) | 基于 LangChain/DeepSeek 的股票分析智能体。 | 7 | `Python` | `—` |
+| [openbb-rag-financial-research-agent](https://github.com/sandole/openbb-rag-financial-research-agent) | 面向 SEC 文件与金融研究的 RAG 智能体。 | 7 | `Python` | `—` |
+| [stock_research_agent](https://github.com/druce/stock_research_agent) | 通过 Claude agent SDK 生成股票研究报告。 | 3 | `Python` | `—` |
+| [multi-horizon-financial-agent](https://github.com/srx7703/multi-horizon-financial-agent) | 综合 SEC 与市场研究简报的调用工具智能体。 | 2 | `Python` | `MIT` |
+| [stockgpt](https://github.com/ESJavadex/stockgpt) | 分析股票并生成 GPT-4 投资报告。 | 2 | `Python` | `MIT` |
+| [StockerLens](https://github.com/Aswin-Cheerngodan/StockerLens) | 结合情感与图表分析的多模态股价预测。 | 1 | `Jupyter Notebook` | `—` |
+| [stock_signal_analyzer](https://github.com/mmovsesyan/stock_signal_analyzer) | 基于 LLM 新闻情感与交易计划的自学股票系统。 | 1 | `Python` | `—` |
+| [daily_stock_analysis](https://github.com/chief0714/daily_stock_analysis) | 基于 LLM 的每日多市场股票分析。 | 1 | `Python` | `MIT` |
 
 <a id="sentiment-nlp"></a>
 ## 4. 📰 金融情感与新闻/社交媒体 NLP
 
-- [finBERT](https://github.com/ProsusAI/finBERT) ⭐ `2.2k` `Jupyter Notebook` `Apache-2.0` — 面向新闻与公告的 BERT 金融情感分类器。
-- [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) ⭐ `1.5k` `Jupyter Notebook` `MIT` — 面向互联网规模市场文本的金融 NLP 库。
-- [FinBERT](https://github.com/valuesimplex/FinBERT) ⭐ `925` `Python` `MIT` — 金融文本分类的 FinBERT 实现。
-- [FinBERT](https://github.com/yya518/FinBERT) ⭐ `657` `Jupyter Notebook` `Apache-2.0` — 面向金融通讯情感的预训练 BERT。
-- [StockEmotions](https://github.com/adlnlp/StockEmotions) ⭐ `95` `Jupyter Notebook` `—` — 投资者情绪与金融情感数据集与代码。
-- [finnlp-sentiment](https://github.com/nlp-chula/finnlp-sentiment) ⭐ `26` `Python` `—` — 泰语金融情感分析工具与模型。
-- [twitter-alpha-sentiment-tracker-v2](https://github.com/Rezzecup/twitter-alpha-sentiment-tracker-v2) ⭐ `21` `Python` `—` — 实时 X/Twitter 聪明资金情感追踪器。
-- [Aspect-based-Financial-Sentiment-Analysis](https://github.com/ashishsalunkhe/Aspect-based-Financial-Sentiment-Analysis) ⭐ `11` `Jupyter Notebook` `—` — 面向 FiQA 的细粒度金融情感方案。
-- [FinChina-SA](https://github.com/YerayL/FinChina-SA) ⭐ `7` `Python` `Apache-2.0` — 中文细粒度金融情感数据集与代码。
-- [earnings-edge](https://github.com/suhaas/earnings-edge) ⭐ `6` `Python` `—` — 面向财报电话会分析师摘要的多智能体 LangGraph 应用。
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [finBERT](https://github.com/ProsusAI/finBERT) | 面向新闻与公告的 BERT 金融情感分类器。 | 2.2k | `Jupyter Notebook` | `Apache-2.0` |
+| [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) | 面向互联网规模市场文本的金融 NLP 库。 | 1.5k | `Jupyter Notebook` | `MIT` |
+| [FinBERT](https://github.com/valuesimplex/FinBERT) | 金融文本分类的 FinBERT 实现。 | 925 | `Python` | `MIT` |
+| [FinBERT](https://github.com/yya518/FinBERT) | 面向金融通讯情感的预训练 BERT。 | 657 | `Jupyter Notebook` | `Apache-2.0` |
+| [StockEmotions](https://github.com/adlnlp/StockEmotions) | 投资者情绪与金融情感数据集与代码。 | 95 | `Jupyter Notebook` | `—` |
+| [finnlp-sentiment](https://github.com/nlp-chula/finnlp-sentiment) | 泰语金融情感分析工具与模型。 | 26 | `Python` | `—` |
+| [twitter-alpha-sentiment-tracker-v2](https://github.com/Rezzecup/twitter-alpha-sentiment-tracker-v2) | 实时 X/Twitter 聪明资金情感追踪器。 | 21 | `Python` | `—` |
+| [Aspect-based-Financial-Sentiment-Analysis](https://github.com/ashishsalunkhe/Aspect-based-Financial-Sentiment-Analysis) | 面向 FiQA 的细粒度金融情感方案。 | 11 | `Jupyter Notebook` | `—` |
+| [FinChina-SA](https://github.com/YerayL/FinChina-SA) | 中文细粒度金融情感数据集与代码。 | 7 | `Python` | `Apache-2.0` |
+| [earnings-edge](https://github.com/suhaas/earnings-edge) | 面向财报电话会分析师摘要的多智能体 LangGraph 应用。 | 6 | `Python` | `—` |
 
 <a id="trading-bots"></a>
 ## 5. 💹 LLM/智能体交易机器人与回测
 
-- [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) ⭐ `60.7k` `Python` `MIT` — 模拟投资人角色、进行股票决策的多智能体 LLM 对冲基金团队。
-- [AI-Trader](https://github.com/HKUDS/AI-Trader) ⭐ `20.3k` `Python` `—` — 面向 AI 智能体的全自动原生交易平台。
-- [Qbot](https://github.com/UFund-Me/Qbot) ⭐ `17.9k` `Jupyter Notebook` `MIT` — AI 驱动的量化投资研究与自动交易平台。
-- [FinRL](https://github.com/AI4Finance-Foundation/FinRL) ⭐ `15.6k` `Jupyter Notebook` `MIT` — 金融强化学习库与交易智能体生态。
-- [FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) ⭐ `3.4k` `Python` `Apache-2.0` — 支持回测的 AI 原生模块化量化交易基础设施。
-- [FinMem-LLM-StockTrading](https://github.com/pipiku915/FinMem-LLM-StockTrading) ⭐ `918` `Python` `MIT` — 具备分层记忆与角色设计的 LLM 股票交易智能体。
-- [Stockagent](https://github.com/MingyuJ666/Stockagent) ⭐ `680` `Python` `—` — 在拟真市场环境中进行 LLM 驱动股票交易。
-- [llm-agent-trader](https://github.com/jason8745/llm-agent-trader) ⭐ `375` `Python` `MIT` — 基于 LLM 决策分析的股票交易回测系统。
-- [FinRL_DeepSeek](https://github.com/benstaf/FinRL_DeepSeek) ⭐ `329` `Jupyter Notebook` `MIT` — 面向交易智能体的 LLM 注入风险敏感强化学习。
-- [LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot) ⭐ `296` `Python` `MIT` — 使用 LLM 实现实时适应的多智能体 AI 交易系统。
-- [TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) ⭐ `195` `Python` `MIT` — 面向社会经济市场模拟的多智能体 LLM 框架。
-- [robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot) ⭐ `118` `Python` `MIT` — 与 Robinhood 集成的 AI 交易机器人。
-- [FinAgent](https://github.com/DVampire/FinAgent) ⭐ `75` `Python` `MIT` — 面向金融交易、支持工具增强 LLM 的多模态基础智能体。
-- [AutoTrader-AgentEdge](https://github.com/iAmGiG/AutoTrader-AgentEdge) ⭐ `18` `Python` `AGPL-3.0` — 支持滚动样本外验证的生产级多智能体交易平台。
-- [Auto-Trader](https://github.com/Itachi-Uchiha581/Auto-Trader) ⭐ `14` `Python` `MIT` — 自动执行交易的 LLM 驱动交易机器人。
-- [trade-agent](https://github.com/mocasus/trade-agent) ⭐ `8` `Python` `MIT` — 使用 LLM 综合市场、新闻与指标的模块化 AI 交易智能体。
-- [ai-hedge-fund](https://github.com/zhound420/ai-hedge-fund) ⭐ `0` `Python` `—` — 支持 Alpaca 模拟交易与 LLM 分析师的多智能体股票对冲基金。
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 模拟投资人角色、进行股票决策的多智能体 LLM 对冲基金团队。 | 60.7k | `Python` | `MIT` |
+| [AI-Trader](https://github.com/HKUDS/AI-Trader) | 面向 AI 智能体的全自动原生交易平台。 | 20.3k | `Python` | `—` |
+| [Qbot](https://github.com/UFund-Me/Qbot) | AI 驱动的量化投资研究与自动交易平台。 | 17.9k | `Jupyter Notebook` | `MIT` |
+| [FinRL](https://github.com/AI4Finance-Foundation/FinRL) | 金融强化学习库与交易智能体生态。 | 15.6k | `Jupyter Notebook` | `MIT` |
+| [FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) | 支持回测的 AI 原生模块化量化交易基础设施。 | 3.4k | `Python` | `Apache-2.0` |
+| [FinMem-LLM-StockTrading](https://github.com/pipiku915/FinMem-LLM-StockTrading) | 具备分层记忆与角色设计的 LLM 股票交易智能体。 | 918 | `Python` | `MIT` |
+| [Stockagent](https://github.com/MingyuJ666/Stockagent) | 在拟真市场环境中进行 LLM 驱动股票交易。 | 680 | `Python` | `—` |
+| [llm-agent-trader](https://github.com/jason8745/llm-agent-trader) | 基于 LLM 决策分析的股票交易回测系统。 | 375 | `Python` | `MIT` |
+| [FinRL_DeepSeek](https://github.com/benstaf/FinRL_DeepSeek) | 面向交易智能体的 LLM 注入风险敏感强化学习。 | 329 | `Jupyter Notebook` | `MIT` |
+| [LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot) | 使用 LLM 实现实时适应的多智能体 AI 交易系统。 | 296 | `Python` | `MIT` |
+| [TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) | 面向社会经济市场模拟的多智能体 LLM 框架。 | 195 | `Python` | `MIT` |
+| [robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot) | 与 Robinhood 集成的 AI 交易机器人。 | 118 | `Python` | `MIT` |
+| [FinAgent](https://github.com/DVampire/FinAgent) | 面向金融交易、支持工具增强 LLM 的多模态基础智能体。 | 75 | `Python` | `MIT` |
+| [AutoTrader-AgentEdge](https://github.com/iAmGiG/AutoTrader-AgentEdge) | 支持滚动样本外验证的生产级多智能体交易平台。 | 18 | `Python` | `AGPL-3.0` |
+| [Auto-Trader](https://github.com/Itachi-Uchiha581/Auto-Trader) | 自动执行交易的 LLM 驱动交易机器人。 | 14 | `Python` | `MIT` |
+| [trade-agent](https://github.com/mocasus/trade-agent) | 使用 LLM 综合市场、新闻与指标的模块化 AI 交易智能体。 | 8 | `Python` | `MIT` |
+| [ai-hedge-fund](https://github.com/zhound420/ai-hedge-fund) | 支持 Alpaca 模拟交易与 LLM 分析师的多智能体股票对冲基金。 | 0 | `Python` | `—` |
 
 <a id="learning"></a>
 ## 6. 🎓 学习 / 教育平台
 
-- [finllm-apps](https://github.com/tinztwins/finllm-apps) ⭐ `152` `Python` `MIT` — 开源 FinLLM 应用与演示集合。
-- [Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs) ⭐ `129` `—` `MIT` — 金融服务领域真实 LLM 实现汇编。
-- [finLLM](https://github.com/ArchishmanSengupta/finLLM) ⭐ `7` `Python` `—` — 基于金融百科的对话式 FinLLM 演示。
-- [AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) ⭐ `6` `TypeScript` `—` — 使用 Next.js 与 OpenAI 构建的 AI 股市聊天机器人。
-- [finLLM](https://github.com/Entropov/finLLM) ⭐ `1` `Python` `—` — 面向金融问答的实验性金融 LLM 导师。
-- [FinancialLiteracyChatbot](https://github.com/24prathamesh2004/FinancialLiteracyChatbot) ⭐ `2` `HTML` `—` — 面向个人理财与投资基础学习的对话式金融素养聊天机器人。
-- [FinWise](https://github.com/aadithya2007/FinWise) ⭐ `1` `JavaScript` `—` — 教授金融素养与投资基础知识的对话助手。
-- [financial-literacy-chatbot](https://github.com/sparsh-j01/financial-literacy-chatbot) ⭐ `1` `HTML` `—` — 由 Google Gemini 驱动的双语金融素养聊天机器人。
-- [ArthSakhi](https://github.com/SmritiD2004/ArthSakhi) ⭐ `1` `Python` `—` — 面向印度女性的金融素养聊天机器人。
-- [AI_FinancialTutor](https://github.com/NaniSkinner/AI_FinancialTutor) ⭐ `0` `TypeScript` `—` — 面向互动投资与金融教育的 AI 金融导师。
-- [FinancialLiteracyChatbot](https://github.com/premnath228004/FinancialLiteracyChatbot) ⭐ `0` `Python` `—` — 支持 CLI 与 WhatsApp 的双语金融素养聊天机器人。
-- [financial-literacy-bot](https://github.com/Collin17Muse/financial-literacy-bot) ⭐ `0` `HTML` `—` — 可教学、测验与追踪进度的交互式金融素养机器人。
-- [Multilingual_financial_Chatbot](https://github.com/Indhumathi-RA/Multilingual_financial_Chatbot) ⭐ `0` `Jupyter Notebook` `—` — 面向香港金融概念的多语言 RAG 聊天机器人。
-- [syf-finlit-agent](https://github.com/SidharthAnand04/syf-finlit-agent) ⭐ `0` `TypeScript` `—` — 用于解释信贷产品并提升金融素养的 AI 智能体。
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [finllm-apps](https://github.com/tinztwins/finllm-apps) | 开源 FinLLM 应用与演示集合。 | 152 | `Python` | `MIT` |
+| [Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs) | 金融服务领域真实 LLM 实现汇编。 | 129 | `—` | `MIT` |
+| [finLLM](https://github.com/ArchishmanSengupta/finLLM) | 基于金融百科的对话式 FinLLM 演示。 | 7 | `Python` | `—` |
+| [AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) | 使用 Next.js 与 OpenAI 构建的 AI 股市聊天机器人。 | 6 | `TypeScript` | `—` |
+| [finLLM](https://github.com/Entropov/finLLM) | 面向金融问答的实验性金融 LLM 导师。 | 1 | `Python` | `—` |
+| [FinancialLiteracyChatbot](https://github.com/24prathamesh2004/FinancialLiteracyChatbot) | 面向个人理财与投资基础学习的对话式金融素养聊天机器人。 | 2 | `HTML` | `—` |
+| [FinWise](https://github.com/aadithya2007/FinWise) | 教授金融素养与投资基础知识的对话助手。 | 1 | `JavaScript` | `—` |
+| [financial-literacy-chatbot](https://github.com/sparsh-j01/financial-literacy-chatbot) | 由 Google Gemini 驱动的双语金融素养聊天机器人。 | 1 | `HTML` | `—` |
+| [ArthSakhi](https://github.com/SmritiD2004/ArthSakhi) | 面向印度女性的金融素养聊天机器人。 | 1 | `Python` | `—` |
+| [AI_FinancialTutor](https://github.com/NaniSkinner/AI_FinancialTutor) | 面向互动投资与金融教育的 AI 金融导师。 | 0 | `TypeScript` | `—` |
+| [FinancialLiteracyChatbot](https://github.com/premnath228004/FinancialLiteracyChatbot) | 支持 CLI 与 WhatsApp 的双语金融素养聊天机器人。 | 0 | `Python` | `—` |
+| [financial-literacy-bot](https://github.com/Collin17Muse/financial-literacy-bot) | 可教学、测验与追踪进度的交互式金融素养机器人。 | 0 | `HTML` | `—` |
+| [Multilingual_financial_Chatbot](https://github.com/Indhumathi-RA/Multilingual_financial_Chatbot) | 面向香港金融概念的多语言 RAG 聊天机器人。 | 0 | `Jupyter Notebook` | `—` |
+| [syf-finlit-agent](https://github.com/SidharthAnand04/syf-finlit-agent) | 用于解释信贷产品并提升金融素养的 AI 智能体。 | 0 | `TypeScript` | `—` |
 
 <a id="datasets"></a>
 ## 7. 📊 数据集与基准
 
-- [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) ⭐ `1.9k` `Python` `MIT` — 面向金融强化学习的动态数据集与市场环境。
-- [FNSPID_Financial_News_Dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset) ⭐ `432` `Python` `NOASSERTION` — 面向 S&P 500 时序预测的大规模财经新闻与股价数据集。
-- [FinLLMs](https://github.com/adlnlp/FinLLMs) ⭐ `380` `—` `—` — 《Large Language Models in Finance》论文的基准与数据集。
-- [financebench](https://github.com/patronus-ai/financebench) ⭐ `332` `Jupyter Notebook` `—` — 面向 LLM 的开放式金融问答基准。
-- [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval) ⭐ `278` `Python` `Apache-2.0` — 包含 26,000+ 题目的中文金融领域 LLM 评测基准。
-- [live-trade-bench](https://github.com/ulab-uiuc/live-trade-bench) ⭐ `160` `Python` `NOASSERTION` — 面向交易智能体的实盘评测基准。
-- [BizFinBench](https://github.com/HiThink-Research/BizFinBench) ⭐ `167` `Python` `—` — 面向 LLM 的商务驱动真实世界金融基准。
-- [cflue](https://github.com/aliyun/cflue) ⭐ `91` `Python` `—` — 面向 LLM 的中文金融语言理解基准。
-- [FinLoRA](https://github.com/Open-Finance-Lab/FinLoRA) ⭐ `66` `Python` `NOASSERTION` — 在财经数据上微调 LLM 的 LoRA 基准测试。
-- [FLANG](https://github.com/SALT-NLP/FLANG) ⭐ `57` `Python` `Apache-2.0` — 金融领域预训练模型与 FLUE 基准套件。
-- [CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) ⭐ `55` `Python` `Apache-2.0` — 面向大型语言模型的中文金融助手基准。
-- [FinMTEB](https://github.com/yixuantt/FinMTEB) ⭐ `54` `Python` `—` — 覆盖 64 个数据集的金融大规模文本嵌入基准。
-- [FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard) ⭐ `26` `Jupyter Notebook` `MIT` — 评估金融 LLM 与智能体的排行榜。
-- [CNFinBench](https://github.com/open-compass/CNFinBench) ⭐ `16` `Python` `—` — 包含智能体链路的高风险中文金融综合基准。
-- [FinBen](https://github.com/The-FinAI/FinBen) ⭐ `15` `Python` `—` — 面向 LLM 金融任务评测的综合基准套件。
-- [FinanceQA](https://github.com/AfterQuery/FinanceQA) ⭐ `8` `—` `—` — 评估 LLM 金融分析能力的基准。
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) | 面向金融强化学习的动态数据集与市场环境。 | 1.9k | `Python` | `MIT` |
+| [FNSPID_Financial_News_Dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset) | 面向 S&P 500 时序预测的大规模财经新闻与股价数据集。 | 432 | `Python` | `NOASSERTION` |
+| [FinLLMs](https://github.com/adlnlp/FinLLMs) | 《Large Language Models in Finance》论文的基准与数据集。 | 380 | `—` | `—` |
+| [financebench](https://github.com/patronus-ai/financebench) | 面向 LLM 的开放式金融问答基准。 | 332 | `Jupyter Notebook` | `—` |
+| [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval) | 包含 26,000+ 题目的中文金融领域 LLM 评测基准。 | 278 | `Python` | `Apache-2.0` |
+| [live-trade-bench](https://github.com/ulab-uiuc/live-trade-bench) | 面向交易智能体的实盘评测基准。 | 160 | `Python` | `NOASSERTION` |
+| [BizFinBench](https://github.com/HiThink-Research/BizFinBench) | 面向 LLM 的商务驱动真实世界金融基准。 | 167 | `Python` | `—` |
+| [cflue](https://github.com/aliyun/cflue) | 面向 LLM 的中文金融语言理解基准。 | 91 | `Python` | `—` |
+| [FinLoRA](https://github.com/Open-Finance-Lab/FinLoRA) | 在财经数据上微调 LLM 的 LoRA 基准测试。 | 66 | `Python` | `NOASSERTION` |
+| [FLANG](https://github.com/SALT-NLP/FLANG) | 金融领域预训练模型与 FLUE 基准套件。 | 57 | `Python` | `Apache-2.0` |
+| [CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) | 面向大型语言模型的中文金融助手基准。 | 55 | `Python` | `Apache-2.0` |
+| [FinMTEB](https://github.com/yixuantt/FinMTEB) | 覆盖 64 个数据集的金融大规模文本嵌入基准。 | 54 | `Python` | `—` |
+| [FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard) | 评估金融 LLM 与智能体的排行榜。 | 26 | `Jupyter Notebook` | `MIT` |
+| [CNFinBench](https://github.com/open-compass/CNFinBench) | 包含智能体链路的高风险中文金融综合基准。 | 16 | `Python` | `—` |
+| [FinBen](https://github.com/The-FinAI/FinBen) | 面向 LLM 金融任务评测的综合基准套件。 | 15 | `Python` | `—` |
+| [FinanceQA](https://github.com/AfterQuery/FinanceQA) | 评估 LLM 金融分析能力的基准。 | 8 | `—` | `—` |
 
 <a id="papers"></a>
 ## 8. 🧪 带代码的研究论文

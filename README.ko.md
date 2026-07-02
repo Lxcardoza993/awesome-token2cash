@@ -58,113 +58,127 @@
 <a id="foundation-llms"></a>
 ## 1. 🏛️ 기초 금융 LLM
 
-- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ `20.8k` `Jupyter Notebook` `MIT` — 데이터, 파인튜닝, 강화학습, 트레이딩 애플리케이션을 포함한 오픈소스 금융 LLM 프레임워크입니다.
-- [XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan) ⭐ `1.3k` `Python` `—` — Duxiaoman에서 개발한 중국어 금융 대화 대규모 언어 모델입니다.
-- [DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM) ⭐ `888` `Python` `Apache-2.0` — 전문 금융 상담을 위한 중국어 금융 LLM입니다.
-- [PIXIU](https://github.com/The-FinAI/PIXIU) ⭐ `872` `Jupyter Notebook` `MIT` — 금융 LLM, 명령어 튜닝 데이터, 종합 평가 벤치마크를 제공합니다.
-- [InvestLM](https://github.com/AbaciNLP/InvestLM) ⭐ `153` `Python` `—` — 금융 및 투자에 특화된 대규모 언어 모델입니다.
-- [CFGPT](https://github.com/TongjiFinLab/CFGPT) ⭐ `91` `Python` `Apache-2.0` — 대규모 언어 모델 기반의 중국어 금융 어시스턴트입니다.
-- [BloombergGPT_zh](https://github.com/sunshineyg2018/BloombergGPT_zh) ⭐ `58` `—` `—` — BloombergGPT의 중국어 구현/재현입니다.
-- [FinRAG](https://github.com/AI4Finance-Foundation/FinRAG) ⭐ `53` `Python` `Apache-2.0` — 금융 분야를 위한 검색 증강 생성(RAG) 시스템입니다.
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | 데이터, 파인튜닝, 강화학습, 트레이딩 애플리케이션을 포함한 오픈소스 금융 LLM 프레임워크입니다. | 20.8k | `Jupyter Notebook` | `MIT` |
+| [XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan) | Duxiaoman에서 개발한 중국어 금융 대화 대규모 언어 모델입니다. | 1.3k | `Python` | `—` |
+| [DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM) | 전문 금융 상담을 위한 중국어 금융 LLM입니다. | 888 | `Python` | `Apache-2.0` |
+| [PIXIU](https://github.com/The-FinAI/PIXIU) | 금융 LLM, 명령어 튜닝 데이터, 종합 평가 벤치마크를 제공합니다. | 872 | `Jupyter Notebook` | `MIT` |
+| [InvestLM](https://github.com/AbaciNLP/InvestLM) | 금융 및 투자에 특화된 대규모 언어 모델입니다. | 153 | `Python` | `—` |
+| [CFGPT](https://github.com/TongjiFinLab/CFGPT) | 대규모 언어 모델 기반의 중국어 금융 어시스턴트입니다. | 91 | `Python` | `Apache-2.0` |
+| [BloombergGPT_zh](https://github.com/sunshineyg2018/BloombergGPT_zh) | BloombergGPT의 중국어 구현/재현입니다. | 58 | `—` | `—` |
+| [FinRAG](https://github.com/AI4Finance-Foundation/FinRAG) | 금융 분야를 위한 검색 증강 생성(RAG) 시스템입니다. | 53 | `Python` | `Apache-2.0` |
 
 <a id="multi-agent"></a>
 ## 2. 🤖 멀티 에이전트 트레이딩 및 분석 프레임워크
 
-- [TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ `90.3k` `Python` `Apache-2.0` — 전문 트레이딩 회사 역할을 시뮬레이션하는 멀티 에이전트 LLM 트레이딩 프레임워크입니다.
-- [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) ⭐ `7.4k` `Jupyter Notebook` `Apache-2.0` — LLM을 활용한 금융 분석용 오픈소스 AI 에이전트 플랫폼입니다.
-- [TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock) ⭐ `1.6k` `Python` `Apache-2.0` — TradingAgents를 기반으로 한 A주 멀티 에이전트 투자 리서치 프레임워크입니다.
-- [AgenticTrading](https://github.com/Open-Finance-Lab/AgenticTrading) ⭐ `260` `Python` `NOASSERTION` — LLM 기반 트레이딩 에이전트와 백테스팅을 위한 오픈소스 플랫폼입니다.
-- [AlpacaTradingAgent](https://github.com/huygiatrng/AlpacaTradingAgent) ⭐ `238` `Python` `Apache-2.0` — Alpaca와 연동하여 실제 거래를 수행하는 멀티 에이전트 LLM 트레이딩 프레임워크입니다.
-- [MarketAgents](https://github.com/marketagents-ai/MarketAgents) ⭐ `116` `Python` `—` — 경제 AI 에이전트와 시장 시뮬레이션을 위한 오케스트레이션 프레임워크입니다.
-- [LLM-Economist](https://github.com/sethkarten/LLM-Economist) ⭐ `114` `Python` `MIT` — 메커니즘과 세금 정책을 위한 대규모 LLM 멀티 에이전트 시뮬레이션입니다.
-- [ai-economist](https://github.com/salesforce/ai-economist) ⭐ `110` `Python` `BSD-3-Clause` — 사회경제 행위와 정책 설계를 위한 멀티 에이전트 강화학습 프레임워크입니다.
-- [orallexa-ai-trading-agent](https://github.com/alex-jb/orallexa-ai-trading-agent) ⭐ `52` `Python` `MIT` — 황소/약세/판사 토론을 통한 자기 조정 멀티 에이전트 트레이딩 시스템입니다.
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 전문 트레이딩 회사 역할을 시뮬레이션하는 멀티 에이전트 LLM 트레이딩 프레임워크입니다. | 90.3k | `Python` | `Apache-2.0` |
+| [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | LLM을 활용한 금융 분석용 오픈소스 AI 에이전트 플랫폼입니다. | 7.4k | `Jupyter Notebook` | `Apache-2.0` |
+| [TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock) | TradingAgents를 기반으로 한 A주 멀티 에이전트 투자 리서치 프레임워크입니다. | 1.6k | `Python` | `Apache-2.0` |
+| [AgenticTrading](https://github.com/Open-Finance-Lab/AgenticTrading) | LLM 기반 트레이딩 에이전트와 백테스팅을 위한 오픈소스 플랫폼입니다. | 260 | `Python` | `NOASSERTION` |
+| [AlpacaTradingAgent](https://github.com/huygiatrng/AlpacaTradingAgent) | Alpaca와 연동하여 실제 거래를 수행하는 멀티 에이전트 LLM 트레이딩 프레임워크입니다. | 238 | `Python` | `Apache-2.0` |
+| [MarketAgents](https://github.com/marketagents-ai/MarketAgents) | 경제 AI 에이전트와 시장 시뮬레이션을 위한 오케스트레이션 프레임워크입니다. | 116 | `Python` | `—` |
+| [LLM-Economist](https://github.com/sethkarten/LLM-Economist) | 메커니즘과 세금 정책을 위한 대규모 LLM 멀티 에이전트 시뮬레이션입니다. | 114 | `Python` | `MIT` |
+| [ai-economist](https://github.com/salesforce/ai-economist) | 사회경제 행위와 정책 설계를 위한 멀티 에이전트 강화학습 프레임워크입니다. | 110 | `Python` | `BSD-3-Clause` |
+| [orallexa-ai-trading-agent](https://github.com/alex-jb/orallexa-ai-trading-agent) | 황소/약세/판사 토론을 통한 자기 조정 멀티 에이전트 트레이딩 시스템입니다. | 52 | `Python` | `MIT` |
 
 <a id="stock-analysis"></a>
 ## 3. 📈 LLM 주식 분석, 예측 및 리서치 보고서
 
-- [deep-research-machine](https://github.com/druce/deep-research-machine) ⭐ `11` `Python` `—` — LLM을 활용한 비동기 주식 리서치 파이프라인입니다.
-- [AI-Stock-Analyst-Agent-Langchain-Deepseek](https://github.com/Bisma-Shafiq/AI-Stock-Analyst-Agent-Langchain-Deepseek) ⭐ `7` `Python` `—` — 주식 분석을 위한 LangChain/DeepSeek 에이전트입니다.
-- [openbb-rag-financial-research-agent](https://github.com/sandole/openbb-rag-financial-research-agent) ⭐ `7` `Python` `—` — SEC 공시 및 금융 리서치를 위한 RAG 에이전트입니다.
-- [stock_research_agent](https://github.com/druce/stock_research_agent) ⭐ `3` `Python` `—` — Claude agent SDK를 통해 주식 리서치 보고서를 생성합니다.
-- [multi-horizon-financial-agent](https://github.com/srx7703/multi-horizon-financial-agent) ⭐ `2` `Python` `MIT` — SEC 및 시장 리서치 브리핑을 종합하는 도구 사용 에이전트입니다.
-- [stockgpt](https://github.com/ESJavadex/stockgpt) ⭐ `2` `Python` `MIT` — 주식을 분석하고 GPT-4 기반 투자 보고서를 생성합니다.
-- [StockerLens](https://github.com/Aswin-Cheerngodan/StockerLens) ⭐ `1` `Jupyter Notebook` `—` — 감성과 차트 분석을 활용한 멀티모달 주가 예측입니다.
-- [stock_signal_analyzer](https://github.com/mmovsesyan/stock_signal_analyzer) ⭐ `1` `Python` `—` — LLM 뉴스 감성과 계획을 갖춘 자기 학습 주식 시스템입니다.
-- [daily_stock_analysis](https://github.com/chief0714/daily_stock_analysis) ⭐ `1` `Python` `MIT` — LLM 기반 일일 다중 시장 주식 분석입니다.
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [deep-research-machine](https://github.com/druce/deep-research-machine) | LLM을 활용한 비동기 주식 리서치 파이프라인입니다. | 11 | `Python` | `—` |
+| [AI-Stock-Analyst-Agent-Langchain-Deepseek](https://github.com/Bisma-Shafiq/AI-Stock-Analyst-Agent-Langchain-Deepseek) | 주식 분석을 위한 LangChain/DeepSeek 에이전트입니다. | 7 | `Python` | `—` |
+| [openbb-rag-financial-research-agent](https://github.com/sandole/openbb-rag-financial-research-agent) | SEC 공시 및 금융 리서치를 위한 RAG 에이전트입니다. | 7 | `Python` | `—` |
+| [stock_research_agent](https://github.com/druce/stock_research_agent) | Claude agent SDK를 통해 주식 리서치 보고서를 생성합니다. | 3 | `Python` | `—` |
+| [multi-horizon-financial-agent](https://github.com/srx7703/multi-horizon-financial-agent) | SEC 및 시장 리서치 브리핑을 종합하는 도구 사용 에이전트입니다. | 2 | `Python` | `MIT` |
+| [stockgpt](https://github.com/ESJavadex/stockgpt) | 주식을 분석하고 GPT-4 기반 투자 보고서를 생성합니다. | 2 | `Python` | `MIT` |
+| [StockerLens](https://github.com/Aswin-Cheerngodan/StockerLens) | 감성과 차트 분석을 활용한 멀티모달 주가 예측입니다. | 1 | `Jupyter Notebook` | `—` |
+| [stock_signal_analyzer](https://github.com/mmovsesyan/stock_signal_analyzer) | LLM 뉴스 감성과 계획을 갖춘 자기 학습 주식 시스템입니다. | 1 | `Python` | `—` |
+| [daily_stock_analysis](https://github.com/chief0714/daily_stock_analysis) | LLM 기반 일일 다중 시장 주식 분석입니다. | 1 | `Python` | `MIT` |
 
 <a id="sentiment-nlp"></a>
 ## 4. 📰 금융 감성 및 뉴스/소셜 NLP
 
-- [finBERT](https://github.com/ProsusAI/finBERT) ⭐ `2.2k` `Jupyter Notebook` `Apache-2.0` — 뉴스와 공시용 BERT 기반 금융 감성 분류기입니다.
-- [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) ⭐ `1.5k` `Jupyter Notebook` `MIT` — 인터넷 규모 시장 텍스트를 위한 금융 NLP 라이브러리입니다.
-- [FinBERT](https://github.com/valuesimplex/FinBERT) ⭐ `925` `Python` `MIT` — 금융 텍스트 분류를 위한 FinBERT 구현입니다.
-- [FinBERT](https://github.com/yya518/FinBERT) ⭐ `657` `Jupyter Notebook` `Apache-2.0` — 금융 커뮤니케이션 감성을 위한 사전 학습 BERT입니다.
-- [StockEmotions](https://github.com/adlnlp/StockEmotions) ⭐ `95` `Jupyter Notebook` `—` — 투자자 감정과 금융 감성을 위한 데이터셋 및 코드입니다.
-- [finnlp-sentiment](https://github.com/nlp-chula/finnlp-sentiment) ⭐ `26` `Python` `—` — 타이 금융 감성 분석 도구 및 모델입니다.
-- [twitter-alpha-sentiment-tracker-v2](https://github.com/Rezzecup/twitter-alpha-sentiment-tracker-v2) ⭐ `21` `Python` `—` — 실시간 X/Twitter 스마트 머니 감성 트래커입니다.
-- [Aspect-based-Financial-Sentiment-Analysis](https://github.com/ashishsalunkhe/Aspect-based-Financial-Sentiment-Analysis) ⭐ `11` `Jupyter Notebook` `—` — FiQA를 위한 측면 기반 금융 감성 솔루션입니다.
-- [FinChina-SA](https://github.com/YerayL/FinChina-SA) ⭐ `7` `Python` `Apache-2.0` — 중국어 세분화 금융 감성 데이터셋 및 코드입니다.
-- [earnings-edge](https://github.com/suhaas/earnings-edge) ⭐ `6` `Python` `—` — 실적 발표 애널리스트 브리핑을 위한 멀티 에이전트 LangGraph 앱입니다.
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [finBERT](https://github.com/ProsusAI/finBERT) | 뉴스와 공시용 BERT 기반 금융 감성 분류기입니다. | 2.2k | `Jupyter Notebook` | `Apache-2.0` |
+| [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) | 인터넷 규모 시장 텍스트를 위한 금융 NLP 라이브러리입니다. | 1.5k | `Jupyter Notebook` | `MIT` |
+| [FinBERT](https://github.com/valuesimplex/FinBERT) | 금융 텍스트 분류를 위한 FinBERT 구현입니다. | 925 | `Python` | `MIT` |
+| [FinBERT](https://github.com/yya518/FinBERT) | 금융 커뮤니케이션 감성을 위한 사전 학습 BERT입니다. | 657 | `Jupyter Notebook` | `Apache-2.0` |
+| [StockEmotions](https://github.com/adlnlp/StockEmotions) | 투자자 감정과 금융 감성을 위한 데이터셋 및 코드입니다. | 95 | `Jupyter Notebook` | `—` |
+| [finnlp-sentiment](https://github.com/nlp-chula/finnlp-sentiment) | 타이 금융 감성 분석 도구 및 모델입니다. | 26 | `Python` | `—` |
+| [twitter-alpha-sentiment-tracker-v2](https://github.com/Rezzecup/twitter-alpha-sentiment-tracker-v2) | 실시간 X/Twitter 스마트 머니 감성 트래커입니다. | 21 | `Python` | `—` |
+| [Aspect-based-Financial-Sentiment-Analysis](https://github.com/ashishsalunkhe/Aspect-based-Financial-Sentiment-Analysis) | FiQA를 위한 측면 기반 금융 감성 솔루션입니다. | 11 | `Jupyter Notebook` | `—` |
+| [FinChina-SA](https://github.com/YerayL/FinChina-SA) | 중국어 세분화 금융 감성 데이터셋 및 코드입니다. | 7 | `Python` | `Apache-2.0` |
+| [earnings-edge](https://github.com/suhaas/earnings-edge) | 실적 발표 애널리스트 브리핑을 위한 멀티 에이전트 LangGraph 앱입니다. | 6 | `Python` | `—` |
 
 <a id="trading-bots"></a>
 ## 5. 💹 LLM/에이전트 트레이딩 봇 및 백테스팅
 
-- [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) ⭐ `60.7k` `Python` `MIT` — 주식 결정을 위해 투자자 페르소나를 시뮬레이션하는 멀티 에이전트 LLM 헤지 펀드 팀입니다.
-- [AI-Trader](https://github.com/HKUDS/AI-Trader) ⭐ `20.3k` `Python` `—` — AI 에이전트용 완전 자동화 에이전트-네이티브 트레이딩 플랫폼입니다.
-- [Qbot](https://github.com/UFund-Me/Qbot) ⭐ `17.9k` `Jupyter Notebook` `MIT` — AI 기반 퀀트 투자 리서치 및 자동 트레이딩 플랫폼입니다.
-- [FinRL](https://github.com/AI4Finance-Foundation/FinRL) ⭐ `15.6k` `Jupyter Notebook` `MIT` — 금융 강화학습 라이브러리 및 트레이딩 에이전트 생태계입니다.
-- [FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) ⭐ `3.4k` `Python` `Apache-2.0` — 백테스팅을 갖춘 AI-네이티브 모듈형 퀀트 트레이딩 인프라입니다.
-- [FinMem-LLM-StockTrading](https://github.com/pipiku915/FinMem-LLM-StockTrading) ⭐ `918` `Python` `MIT` — 계층적 메모리와 캐릭터 설계를 갖춘 LLM 주식 트레이딩 에이전트입니다.
-- [Stockagent](https://github.com/MingyuJ666/Stockagent) ⭐ `680` `Python` `—` — 시뮬레이션된 실제 시장 환경에서 LLM 주도 주식 트레이딩을 수행합니다.
-- [llm-agent-trader](https://github.com/jason8745/llm-agent-trader) ⭐ `375` `Python` `MIT` — LLM 기반 의사 결정 분석을 갖춘 AI 주식 트레이딩 백테스팅 시스템입니다.
-- [FinRL_DeepSeek](https://github.com/benstaf/FinRL_DeepSeek) ⭐ `329` `Jupyter Notebook` `MIT` — 트레이딩 에이전트를 위한 LLM-융합 리스크 민감 강화학습입니다.
-- [LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot) ⭐ `296` `Python` `MIT` — 실시간 적응을 위해 LLM을 활용하는 멀티 에이전트 AI 트레이딩 시스템입니다.
-- [TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) ⭐ `195` `Python` `MIT` — 사회경제 시장 시뮬레이션을 위한 멀티 에이전트 LLM 프레임워크입니다.
-- [robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot) ⭐ `118` `Python` `MIT` — Robinhood와 통합된 AI 트레이딩 봇입니다.
-- [FinAgent](https://github.com/DVampire/FinAgent) ⭐ `75` `Python` `MIT` — 도구 증강 LLM을 갖춘 금융 트레이딩 멀티모달 파운데이션 에이전트입니다.
-- [AutoTrader-AgentEdge](https://github.com/iAmGiG/AutoTrader-AgentEdge) ⭐ `18` `Python` `AGPL-3.0` — 워크포워드 검증을 갖춘 프로덕션 멀티 에이전트 트레이딩 플랫폼입니다.
-- [Auto-Trader](https://github.com/Itachi-Uchiha581/Auto-Trader) ⭐ `14` `Python` `MIT` — 거래를 자동 실행하는 LLM 기반 트레이딩 봇입니다.
-- [trade-agent](https://github.com/mocasus/trade-agent) ⭐ `8` `Python` `MIT` — 시장, 뉴스, 지표를 위해 LLM을 활용하는 모듈형 AI 트레이딩 에이전트입니다.
-- [ai-hedge-fund](https://github.com/zhound420/ai-hedge-fund) ⭐ `0` `Python` `—` — Alpaca 페이퍼 트레이딩과 LLM 애널리스트를 갖춘 멀티 에이전트 주식 헤지 펀드입니다.
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 주식 결정을 위해 투자자 페르소나를 시뮬레이션하는 멀티 에이전트 LLM 헤지 펀드 팀입니다. | 60.7k | `Python` | `MIT` |
+| [AI-Trader](https://github.com/HKUDS/AI-Trader) | AI 에이전트용 완전 자동화 에이전트-네이티브 트레이딩 플랫폼입니다. | 20.3k | `Python` | `—` |
+| [Qbot](https://github.com/UFund-Me/Qbot) | AI 기반 퀀트 투자 리서치 및 자동 트레이딩 플랫폼입니다. | 17.9k | `Jupyter Notebook` | `MIT` |
+| [FinRL](https://github.com/AI4Finance-Foundation/FinRL) | 금융 강화학습 라이브러리 및 트레이딩 에이전트 생태계입니다. | 15.6k | `Jupyter Notebook` | `MIT` |
+| [FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) | 백테스팅을 갖춘 AI-네이티브 모듈형 퀀트 트레이딩 인프라입니다. | 3.4k | `Python` | `Apache-2.0` |
+| [FinMem-LLM-StockTrading](https://github.com/pipiku915/FinMem-LLM-StockTrading) | 계층적 메모리와 캐릭터 설계를 갖춘 LLM 주식 트레이딩 에이전트입니다. | 918 | `Python` | `MIT` |
+| [Stockagent](https://github.com/MingyuJ666/Stockagent) | 시뮬레이션된 실제 시장 환경에서 LLM 주도 주식 트레이딩을 수행합니다. | 680 | `Python` | `—` |
+| [llm-agent-trader](https://github.com/jason8745/llm-agent-trader) | LLM 기반 의사 결정 분석을 갖춘 AI 주식 트레이딩 백테스팅 시스템입니다. | 375 | `Python` | `MIT` |
+| [FinRL_DeepSeek](https://github.com/benstaf/FinRL_DeepSeek) | 트레이딩 에이전트를 위한 LLM-융합 리스크 민감 강화학습입니다. | 329 | `Jupyter Notebook` | `MIT` |
+| [LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot) | 실시간 적응을 위해 LLM을 활용하는 멀티 에이전트 AI 트레이딩 시스템입니다. | 296 | `Python` | `MIT` |
+| [TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) | 사회경제 시장 시뮬레이션을 위한 멀티 에이전트 LLM 프레임워크입니다. | 195 | `Python` | `MIT` |
+| [robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot) | Robinhood와 통합된 AI 트레이딩 봇입니다. | 118 | `Python` | `MIT` |
+| [FinAgent](https://github.com/DVampire/FinAgent) | 도구 증강 LLM을 갖춘 금융 트레이딩 멀티모달 파운데이션 에이전트입니다. | 75 | `Python` | `MIT` |
+| [AutoTrader-AgentEdge](https://github.com/iAmGiG/AutoTrader-AgentEdge) | 워크포워드 검증을 갖춘 프로덕션 멀티 에이전트 트레이딩 플랫폼입니다. | 18 | `Python` | `AGPL-3.0` |
+| [Auto-Trader](https://github.com/Itachi-Uchiha581/Auto-Trader) | 거래를 자동 실행하는 LLM 기반 트레이딩 봇입니다. | 14 | `Python` | `MIT` |
+| [trade-agent](https://github.com/mocasus/trade-agent) | 시장, 뉴스, 지표를 위해 LLM을 활용하는 모듈형 AI 트레이딩 에이전트입니다. | 8 | `Python` | `MIT` |
+| [ai-hedge-fund](https://github.com/zhound420/ai-hedge-fund) | Alpaca 페이퍼 트레이딩과 LLM 애널리스트를 갖춘 멀티 에이전트 주식 헤지 펀드입니다. | 0 | `Python` | `—` |
 
 <a id="learning"></a>
 ## 6. 🎓 학습 / 교육 플랫폼
 
-- [finllm-apps](https://github.com/tinztwins/finllm-apps) ⭐ `152` `Python` `MIT` — 오픈소스 FinLLM 앱과 데모 모음집입니다.
-- [Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs) ⭐ `129` `—` `MIT` — 금융 서비스에서 실제 LLM 구현 사례 모음입니다.
-- [finLLM](https://github.com/ArchishmanSengupta/finLLM) ⭐ `7` `Python` `—` — 금융 백과사전을 기반으로 한 대화형 FinLLM 데모입니다.
-- [AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) ⭐ `6` `TypeScript` `—` — Next.js와 OpenAI로 구축된 AI 주식 시장 챗봇입니다.
-- [finLLM](https://github.com/Entropov/finLLM) ⭐ `1` `Python` `—` — 금융 Q&A를 위한 실험적 금융 LLM 강사입니다.
-- [FinancialLiteracyChatbot](https://github.com/24prathamesh2004/FinancialLiteracyChatbot) ⭐ `2` `HTML` `—` — 개인 금융 및 투자 기초를 학습하는 대화형 금융 문맥 챗봇입니다.
-- [FinWise](https://github.com/aadithya2007/FinWise) ⭐ `1` `JavaScript` `—` — 금융 문맥과 투자 기초를 가르치는 대화형 어시스턴트입니다.
-- [financial-literacy-chatbot](https://github.com/sparsh-j01/financial-literacy-chatbot) ⭐ `1` `HTML` `—` — Google Gemini 기반의 양언어 금융 문맥 챗봇입니다.
-- [ArthSakhi](https://github.com/SmritiD2004/ArthSakhi) ⭐ `1` `Python` `—` — 인도 여성을 위한 금융 문맥 챗봇입니다.
-- [AI_FinancialTutor](https://github.com/NaniSkinner/AI_FinancialTutor) ⭐ `0` `TypeScript` `—` — 대화형 투자 및 금융 교육용 AI 튜터입니다.
-- [FinancialLiteracyChatbot](https://github.com/premnath228004/FinancialLiteracyChatbot) ⭐ `0` `Python` `—` — CLI와 WhatsApp 접근이 가능한 양언어 금융 문맥 챗봇입니다.
-- [financial-literacy-bot](https://github.com/Collin17Muse/financial-literacy-bot) ⭐ `0` `HTML` `—` — 가르치고, 퀴즈를 내고, 진행 상황을 추적하는 대화형 금융 문맥 봇입니다.
-- [Multilingual_financial_Chatbot](https://github.com/Indhumathi-RA/Multilingual_financial_Chatbot) ⭐ `0` `Jupyter Notebook` `—` — 홍콩 금융 개념을 위한 다국어 RAG 챗봇입니다.
-- [syf-finlit-agent](https://github.com/SidharthAnand04/syf-finlit-agent) ⭐ `0` `TypeScript` `—` — 신용 상품 설명과 금융 문맥 향상을 위한 AI 에이전트입니다.
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [finllm-apps](https://github.com/tinztwins/finllm-apps) | 오픈소스 FinLLM 앱과 데모 모음집입니다. | 152 | `Python` | `MIT` |
+| [Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs) | 금융 서비스에서 실제 LLM 구현 사례 모음입니다. | 129 | `—` | `MIT` |
+| [finLLM](https://github.com/ArchishmanSengupta/finLLM) | 금융 백과사전을 기반으로 한 대화형 FinLLM 데모입니다. | 7 | `Python` | `—` |
+| [AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) | Next.js와 OpenAI로 구축된 AI 주식 시장 챗봇입니다. | 6 | `TypeScript` | `—` |
+| [finLLM](https://github.com/Entropov/finLLM) | 금융 Q&A를 위한 실험적 금융 LLM 강사입니다. | 1 | `Python` | `—` |
+| [FinancialLiteracyChatbot](https://github.com/24prathamesh2004/FinancialLiteracyChatbot) | 개인 금융 및 투자 기초를 학습하는 대화형 금융 문맥 챗봇입니다. | 2 | `HTML` | `—` |
+| [FinWise](https://github.com/aadithya2007/FinWise) | 금융 문맥과 투자 기초를 가르치는 대화형 어시스턴트입니다. | 1 | `JavaScript` | `—` |
+| [financial-literacy-chatbot](https://github.com/sparsh-j01/financial-literacy-chatbot) | Google Gemini 기반의 양언어 금융 문맥 챗봇입니다. | 1 | `HTML` | `—` |
+| [ArthSakhi](https://github.com/SmritiD2004/ArthSakhi) | 인도 여성을 위한 금융 문맥 챗봇입니다. | 1 | `Python` | `—` |
+| [AI_FinancialTutor](https://github.com/NaniSkinner/AI_FinancialTutor) | 대화형 투자 및 금융 교육용 AI 튜터입니다. | 0 | `TypeScript` | `—` |
+| [FinancialLiteracyChatbot](https://github.com/premnath228004/FinancialLiteracyChatbot) | CLI와 WhatsApp 접근이 가능한 양언어 금융 문맥 챗봇입니다. | 0 | `Python` | `—` |
+| [financial-literacy-bot](https://github.com/Collin17Muse/financial-literacy-bot) | 가르치고, 퀴즈를 내고, 진행 상황을 추적하는 대화형 금융 문맥 봇입니다. | 0 | `HTML` | `—` |
+| [Multilingual_financial_Chatbot](https://github.com/Indhumathi-RA/Multilingual_financial_Chatbot) | 홍콩 금융 개념을 위한 다국어 RAG 챗봇입니다. | 0 | `Jupyter Notebook` | `—` |
+| [syf-finlit-agent](https://github.com/SidharthAnand04/syf-finlit-agent) | 신용 상품 설명과 금융 문맥 향상을 위한 AI 에이전트입니다. | 0 | `TypeScript` | `—` |
 
 <a id="datasets"></a>
 ## 7. 📊 데이터셋 및 벤치마크
 
-- [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) ⭐ `1.9k` `Python` `MIT` — 금융 강화학습을 위한 동적 데이터셋과 시장 환경입니다.
-- [FNSPID_Financial_News_Dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset) ⭐ `432` `Python` `NOASSERTION` — S&P 500 시계열 예측을 위한 대규모 금융 뉴스 및 주가 데이터셋입니다.
-- [FinLLMs](https://github.com/adlnlp/FinLLMs) ⭐ `380` `—` `—` — 금융 분야 대규모 언어 모델 연구를 위한 벤치마크 및 데이터셋입니다.
-- [financebench](https://github.com/patronus-ai/financebench) ⭐ `332` `Jupyter Notebook` `—` — LLM을 위한 개방형 금융 질의응답 벤치마크입니다.
-- [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval) ⭐ `278` `Python` `Apache-2.0` — LLM 평가를 위한 26,000개 이상의 중국어 금융 분야 문제 벤치마크입니다.
-- [live-trade-bench](https://github.com/ulab-uiuc/live-trade-bench) ⭐ `160` `Python` `NOASSERTION` — 트레이딩 에이전트를 위한 실시간 평가 벤치마크입니다.
-- [BizFinBench](https://github.com/HiThink-Research/BizFinBench) ⭐ `167` `Python` `—` — LLM을 위한 비즈니스 중심 실전 금융 벤치마크입니다.
-- [cflue](https://github.com/aliyun/cflue) ⭐ `91` `Python` `—` — LLM을 위한 중국어 금융 언어 이해 벤치마크입니다.
-- [FinLoRA](https://github.com/Open-Finance-Lab/FinLoRA) ⭐ `66` `Python` `NOASSERTION` — 금융 데이터로 LLM 파인튜닝을 벤치마킹합니다.
-- [FLANG](https://github.com/SALT-NLP/FLANG) ⭐ `57` `Python` `Apache-2.0` — 금융 분야 사전 학습 모델과 FLUE 벤치마크 모음입니다.
-- [CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) ⭐ `55` `Python` `Apache-2.0` — 대규모 언어 모델을 위한 중국어 금융 어시스턴트 벤치마크입니다.
-- [FinMTEB](https://github.com/yixuantt/FinMTEB) ⭐ `54` `Python` `—` — 64개 데이터셋을 아우르는 금융 대규모 텍스트 임베딩 벤치마크입니다.
-- [FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard) ⭐ `26` `Jupyter Notebook` `MIT` — 금융 LLM과 에이전트를 평가하는 리더보드입니다.
-- [CNFinBench](https://github.com/open-compass/CNFinBench) ⭐ `16` `Python` `—` — 에이전트 체인을 갖춘 고위험 중국어 금융 종합 벤치마크입니다.
-- [FinBen](https://github.com/The-FinAI/FinBen) ⭐ `15` `Python` `—` — 금융 작업에서 LLM을 평가하기 위한 종합 벤치마크 모음입니다.
-- [FinanceQA](https://github.com/AfterQuery/FinanceQA) ⭐ `8` `—` `—` — LLM의 금융 분석 능력을 평가하는 벤치마크입니다.
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) | 금융 강화학습을 위한 동적 데이터셋과 시장 환경입니다. | 1.9k | `Python` | `MIT` |
+| [FNSPID_Financial_News_Dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset) | S&P 500 시계열 예측을 위한 대규모 금융 뉴스 및 주가 데이터셋입니다. | 432 | `Python` | `NOASSERTION` |
+| [FinLLMs](https://github.com/adlnlp/FinLLMs) | 금융 분야 대규모 언어 모델 연구를 위한 벤치마크 및 데이터셋입니다. | 380 | `—` | `—` |
+| [financebench](https://github.com/patronus-ai/financebench) | LLM을 위한 개방형 금융 질의응답 벤치마크입니다. | 332 | `Jupyter Notebook` | `—` |
+| [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval) | LLM 평가를 위한 26,000개 이상의 중국어 금융 분야 문제 벤치마크입니다. | 278 | `Python` | `Apache-2.0` |
+| [live-trade-bench](https://github.com/ulab-uiuc/live-trade-bench) | 트레이딩 에이전트를 위한 실시간 평가 벤치마크입니다. | 160 | `Python` | `NOASSERTION` |
+| [BizFinBench](https://github.com/HiThink-Research/BizFinBench) | LLM을 위한 비즈니스 중심 실전 금융 벤치마크입니다. | 167 | `Python` | `—` |
+| [cflue](https://github.com/aliyun/cflue) | LLM을 위한 중국어 금융 언어 이해 벤치마크입니다. | 91 | `Python` | `—` |
+| [FinLoRA](https://github.com/Open-Finance-Lab/FinLoRA) | 금융 데이터로 LLM 파인튜닝을 벤치마킹합니다. | 66 | `Python` | `NOASSERTION` |
+| [FLANG](https://github.com/SALT-NLP/FLANG) | 금융 분야 사전 학습 모델과 FLUE 벤치마크 모음입니다. | 57 | `Python` | `Apache-2.0` |
+| [CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) | 대규모 언어 모델을 위한 중국어 금융 어시스턴트 벤치마크입니다. | 55 | `Python` | `Apache-2.0` |
+| [FinMTEB](https://github.com/yixuantt/FinMTEB) | 64개 데이터셋을 아우르는 금융 대규모 텍스트 임베딩 벤치마크입니다. | 54 | `Python` | `—` |
+| [FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard) | 금융 LLM과 에이전트를 평가하는 리더보드입니다. | 26 | `Jupyter Notebook` | `MIT` |
+| [CNFinBench](https://github.com/open-compass/CNFinBench) | 에이전트 체인을 갖춘 고위험 중국어 금융 종합 벤치마크입니다. | 16 | `Python` | `—` |
+| [FinBen](https://github.com/The-FinAI/FinBen) | 금융 작업에서 LLM을 평가하기 위한 종합 벤치마크 모음입니다. | 15 | `Python` | `—` |
+| [FinanceQA](https://github.com/AfterQuery/FinanceQA) | LLM의 금융 분석 능력을 평가하는 벤치마크입니다. | 8 | `—` | `—` |
 
 <a id="papers"></a>
 ## 8. 🧪 코드가 포함된 연구 논문

@@ -58,113 +58,127 @@
 <a id="foundation-llms"></a>
 ## 1. 🏛️ 基盤金融LLM
 
-- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ `20.8k` `Jupyter Notebook` `MIT` — オープンソース金融LLMフレームワーク。データ、ファインチューニング、強化学習、トレーディング応用をカバー。
-- [XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan) ⭐ `1.3k` `Python` `—` — 度小満による中国語金融対話大規模言語モデル。
-- [DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM) ⭐ `888` `Python` `Apache-2.0` — 専門的な金融コンサルティング向け中国語金融LLM。
-- [PIXIU](https://github.com/The-FinAI/PIXIU) ⭐ `872` `Jupyter Notebook` `MIT` — 金融LLM、指示チューニングデータ、包括的評価ベンチマーク。
-- [InvestLM](https://github.com/AbaciNLP/InvestLM) ⭐ `153` `Python` `—` — 金融・投資に特化した大規模言語モデル。
-- [CFGPT](https://github.com/TongjiFinLab/CFGPT) ⭐ `91` `Python` `Apache-2.0` — 大規模言語モデルベースの中国語金融アシスタント。
-- [BloombergGPT_zh](https://github.com/sunshineyg2018/BloombergGPT_zh) ⭐ `58` `—` `—` — BloombergGPTの中国語再現/実装。
-- [FinRAG](https://github.com/AI4Finance-Foundation/FinRAG) ⭐ `53` `Python` `Apache-2.0` — 金融領域向け検索増強生成（RAG）システム。
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | オープンソース金融LLMフレームワーク。データ、ファインチューニング、強化学習、トレーディング応用をカバー。 | 20.8k | `Jupyter Notebook` | `MIT` |
+| [XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan) | 度小満による中国語金融対話大規模言語モデル。 | 1.3k | `Python` | `—` |
+| [DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM) | 専門的な金融コンサルティング向け中国語金融LLM。 | 888 | `Python` | `Apache-2.0` |
+| [PIXIU](https://github.com/The-FinAI/PIXIU) | 金融LLM、指示チューニングデータ、包括的評価ベンチマーク。 | 872 | `Jupyter Notebook` | `MIT` |
+| [InvestLM](https://github.com/AbaciNLP/InvestLM) | 金融・投資に特化した大規模言語モデル。 | 153 | `Python` | `—` |
+| [CFGPT](https://github.com/TongjiFinLab/CFGPT) | 大規模言語モデルベースの中国語金融アシスタント。 | 91 | `Python` | `Apache-2.0` |
+| [BloombergGPT_zh](https://github.com/sunshineyg2018/BloombergGPT_zh) | BloombergGPTの中国語再現/実装。 | 58 | `—` | `—` |
+| [FinRAG](https://github.com/AI4Finance-Foundation/FinRAG) | 金融領域向け検索増強生成（RAG）システム。 | 53 | `Python` | `Apache-2.0` |
 
 <a id="multi-agent"></a>
 ## 2. 🤖 マルチエージェント トレーディング＆分析フレームワーク
 
-- [TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ `90.3k` `Python` `Apache-2.0` — 専門的なトレーディング企業の役割をシミュレートするマルチエージェントLLMトレーディングフレームワーク。
-- [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) ⭐ `7.4k` `Jupyter Notebook` `Apache-2.0` — LLMを活用した金融分析のためのオープンソースAIエージェントプラットフォーム。
-- [TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock) ⭐ `1.6k` `Python` `Apache-2.0` — TradingAgentsベースのA株マルチエージェント投資研究フレームワーク。
-- [AgenticTrading](https://github.com/Open-Finance-Lab/AgenticTrading) ⭐ `260` `Python` `NOASSERTION` — LLM駆動のトレーディングエージェントとバックテストのためのオープンソースプラットフォーム。
-- [AlpacaTradingAgent](https://github.com/huygiatrng/AlpacaTradingAgent) ⭐ `238` `Python` `Apache-2.0` — Alpacaと連携して実取引も可能なマルチエージェントLLMトレーディングフレームワーク。
-- [MarketAgents](https://github.com/marketagents-ai/MarketAgents) ⭐ `116` `Python` `—` — 経済AIエージェントと市場シミュレーションのためのオーケストレーションフレームワーク。
-- [LLM-Economist](https://github.com/sethkarten/LLM-Economist) ⭐ `114` `Python` `MIT` — メカニズム設計と税制政策向けの大規模LLMマルチエージェントシミュレーション。
-- [ai-economist](https://github.com/salesforce/ai-economist) ⭐ `110` `Python` `BSD-3-Clause` — 社会経済行動と政策設計のためのマルチエージェントRLフレームワーク。
-- [orallexa-ai-trading-agent](https://github.com/alex-jb/orallexa-ai-trading-agent) ⭐ `52` `Python` `MIT` — 強気・弱気・判定エージェントによる議論を行う自己調整型マルチエージェントトレーディングシステム。
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 専門的なトレーディング企業の役割をシミュレートするマルチエージェントLLMトレーディングフレームワーク。 | 90.3k | `Python` | `Apache-2.0` |
+| [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | LLMを活用した金融分析のためのオープンソースAIエージェントプラットフォーム。 | 7.4k | `Jupyter Notebook` | `Apache-2.0` |
+| [TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock) | TradingAgentsベースのA株マルチエージェント投資研究フレームワーク。 | 1.6k | `Python` | `Apache-2.0` |
+| [AgenticTrading](https://github.com/Open-Finance-Lab/AgenticTrading) | LLM駆動のトレーディングエージェントとバックテストのためのオープンソースプラットフォーム。 | 260 | `Python` | `NOASSERTION` |
+| [AlpacaTradingAgent](https://github.com/huygiatrng/AlpacaTradingAgent) | Alpacaと連携して実取引も可能なマルチエージェントLLMトレーディングフレームワーク。 | 238 | `Python` | `Apache-2.0` |
+| [MarketAgents](https://github.com/marketagents-ai/MarketAgents) | 経済AIエージェントと市場シミュレーションのためのオーケストレーションフレームワーク。 | 116 | `Python` | `—` |
+| [LLM-Economist](https://github.com/sethkarten/LLM-Economist) | メカニズム設計と税制政策向けの大規模LLMマルチエージェントシミュレーション。 | 114 | `Python` | `MIT` |
+| [ai-economist](https://github.com/salesforce/ai-economist) | 社会経済行動と政策設計のためのマルチエージェントRLフレームワーク。 | 110 | `Python` | `BSD-3-Clause` |
+| [orallexa-ai-trading-agent](https://github.com/alex-jb/orallexa-ai-trading-agent) | 強気・弱気・判定エージェントによる議論を行う自己調整型マルチエージェントトレーディングシステム。 | 52 | `Python` | `MIT` |
 
 <a id="stock-analysis"></a>
 ## 3. 📈 LLM 株価分析・予測・調査レポート
 
-- [deep-research-machine](https://github.com/druce/deep-research-machine) ⭐ `11` `Python` `—` — LLMを使った非同期の株式調査パイプライン。
-- [AI-Stock-Analyst-Agent-Langchain-Deepseek](https://github.com/Bisma-Shafiq/AI-Stock-Analyst-Agent-Langchain-Deepseek) ⭐ `7` `Python` `—` — 株価分析のためのLangChain/DeepSeekエージェント。
-- [openbb-rag-financial-research-agent](https://github.com/sandole/openbb-rag-financial-research-agent) ⭐ `7` `Python` `—` — SEC提出書類と金融調査のためのRAGエージェント。
-- [stock_research_agent](https://github.com/druce/stock_research_agent) ⭐ `3` `Python` `—` — Claude agent SDKで株価調査レポートを生成。
-- [multi-horizon-financial-agent](https://github.com/srx7703/multi-horizon-financial-agent) ⭐ `2` `Python` `MIT` — SEC資料と市場調査ブリーフを統合するツール使用型エージェント。
-- [stockgpt](https://github.com/ESJavadex/stockgpt) ⭐ `2` `Python` `MIT` — GPT-4で株価を分析し投資レポートを生成。
-- [StockerLens](https://github.com/Aswin-Cheerngodan/StockerLens) ⭐ `1` `Jupyter Notebook` `—` — センチメントとチャート分析を組み合わせたマルチモーダル株価予測。
-- [stock_signal_analyzer](https://github.com/mmovsesyan/stock_signal_analyzer) ⭐ `1` `Python` `—` — LLMニュースセンチメントと計画による自己学習型株価システム。
-- [daily_stock_analysis](https://github.com/chief0714/daily_stock_analysis) ⭐ `1` `Python` `MIT` — LLM駆動の日次多国間株価分析。
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [deep-research-machine](https://github.com/druce/deep-research-machine) | LLMを使った非同期の株式調査パイプライン。 | 11 | `Python` | `—` |
+| [AI-Stock-Analyst-Agent-Langchain-Deepseek](https://github.com/Bisma-Shafiq/AI-Stock-Analyst-Agent-Langchain-Deepseek) | 株価分析のためのLangChain/DeepSeekエージェント。 | 7 | `Python` | `—` |
+| [openbb-rag-financial-research-agent](https://github.com/sandole/openbb-rag-financial-research-agent) | SEC提出書類と金融調査のためのRAGエージェント。 | 7 | `Python` | `—` |
+| [stock_research_agent](https://github.com/druce/stock_research_agent) | Claude agent SDKで株価調査レポートを生成。 | 3 | `Python` | `—` |
+| [multi-horizon-financial-agent](https://github.com/srx7703/multi-horizon-financial-agent) | SEC資料と市場調査ブリーフを統合するツール使用型エージェント。 | 2 | `Python` | `MIT` |
+| [stockgpt](https://github.com/ESJavadex/stockgpt) | GPT-4で株価を分析し投資レポートを生成。 | 2 | `Python` | `MIT` |
+| [StockerLens](https://github.com/Aswin-Cheerngodan/StockerLens) | センチメントとチャート分析を組み合わせたマルチモーダル株価予測。 | 1 | `Jupyter Notebook` | `—` |
+| [stock_signal_analyzer](https://github.com/mmovsesyan/stock_signal_analyzer) | LLMニュースセンチメントと計画による自己学習型株価システム。 | 1 | `Python` | `—` |
+| [daily_stock_analysis](https://github.com/chief0714/daily_stock_analysis) | LLM駆動の日次多国間株価分析。 | 1 | `Python` | `MIT` |
 
 <a id="sentiment-nlp"></a>
 ## 4. 📰 金融センチメント＆ニュース/ソーシャル NLP
 
-- [finBERT](https://github.com/ProsusAI/finBERT) ⭐ `2.2k` `Jupyter Notebook` `Apache-2.0` — ニュースと提出書類向けのBERTベース金融センチメント分類器。
-- [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) ⭐ `1.5k` `Jupyter Notebook` `MIT` — インターネット規模の市場テキスト向け金融NLPライブラリ。
-- [FinBERT](https://github.com/valuesimplex/FinBERT) ⭐ `925` `Python` `MIT` — 金融テキスト分類のためのFinBERT実装。
-- [FinBERT](https://github.com/yya518/FinBERT) ⭐ `657` `Jupyter Notebook` `Apache-2.0` — 金融コミュニケーションセンチメント向け事前学習BERT。
-- [StockEmotions](https://github.com/adlnlp/StockEmotions) ⭐ `95` `Jupyter Notebook` `—` — 投資家の感情と金融センチメントのデータセットとコード。
-- [finnlp-sentiment](https://github.com/nlp-chula/finnlp-sentiment) ⭐ `26` `Python` `—` — タイ金融センチメント分析のツールとモデル。
-- [twitter-alpha-sentiment-tracker-v2](https://github.com/Rezzecup/twitter-alpha-sentiment-tracker-v2) ⭐ `21` `Python` `—` — リアルタイムのX/Twitterスマートマネーセンチメントトラッカー。
-- [Aspect-based-Financial-Sentiment-Analysis](https://github.com/ashishsalunkhe/Aspect-based-Financial-Sentiment-Analysis) ⭐ `11` `Jupyter Notebook` `—` — FiQA向けアスペクトベース金融センチメントソリューション。
-- [FinChina-SA](https://github.com/YerayL/FinChina-SA) ⭐ `7` `Python` `Apache-2.0` — 中国語細粒度金融センチメントデータセットとコード。
-- [earnings-edge](https://github.com/suhaas/earnings-edge) ⭐ `6` `Python` `—` — 決算説明会アナリストブリーフのためのマルチエージェントLangGraphアプリ。
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [finBERT](https://github.com/ProsusAI/finBERT) | ニュースと提出書類向けのBERTベース金融センチメント分類器。 | 2.2k | `Jupyter Notebook` | `Apache-2.0` |
+| [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) | インターネット規模の市場テキスト向け金融NLPライブラリ。 | 1.5k | `Jupyter Notebook` | `MIT` |
+| [FinBERT](https://github.com/valuesimplex/FinBERT) | 金融テキスト分類のためのFinBERT実装。 | 925 | `Python` | `MIT` |
+| [FinBERT](https://github.com/yya518/FinBERT) | 金融コミュニケーションセンチメント向け事前学習BERT。 | 657 | `Jupyter Notebook` | `Apache-2.0` |
+| [StockEmotions](https://github.com/adlnlp/StockEmotions) | 投資家の感情と金融センチメントのデータセットとコード。 | 95 | `Jupyter Notebook` | `—` |
+| [finnlp-sentiment](https://github.com/nlp-chula/finnlp-sentiment) | タイ金融センチメント分析のツールとモデル。 | 26 | `Python` | `—` |
+| [twitter-alpha-sentiment-tracker-v2](https://github.com/Rezzecup/twitter-alpha-sentiment-tracker-v2) | リアルタイムのX/Twitterスマートマネーセンチメントトラッカー。 | 21 | `Python` | `—` |
+| [Aspect-based-Financial-Sentiment-Analysis](https://github.com/ashishsalunkhe/Aspect-based-Financial-Sentiment-Analysis) | FiQA向けアスペクトベース金融センチメントソリューション。 | 11 | `Jupyter Notebook` | `—` |
+| [FinChina-SA](https://github.com/YerayL/FinChina-SA) | 中国語細粒度金融センチメントデータセットとコード。 | 7 | `Python` | `Apache-2.0` |
+| [earnings-edge](https://github.com/suhaas/earnings-edge) | 決算説明会アナリストブリーフのためのマルチエージェントLangGraphアプリ。 | 6 | `Python` | `—` |
 
 <a id="trading-bots"></a>
 ## 5. 💹 LLM/エージェント トレードボット＆バックテスト
 
-- [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) ⭐ `60.7k` `Python` `MIT` — 投資家ペルソナをシミュレートするマルチエージェントLLMヘッジファンドチーム。
-- [AI-Trader](https://github.com/HKUDS/AI-Trader) ⭐ `20.3k` `Python` `—` — AIエージェント向け完全自動エージェントネイティブトレーディングプラットフォーム。
-- [Qbot](https://github.com/UFund-Me/Qbot) ⭐ `17.9k` `Jupyter Notebook` `MIT` — AI主導の定量的投資研究と自動トレードプラットフォーム。
-- [FinRL](https://github.com/AI4Finance-Foundation/FinRL) ⭐ `15.6k` `Jupyter Notebook` `MIT` — 金融強化学習ライブラリとトレーディングエージェントエコシステム。
-- [FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) ⭐ `3.4k` `Python` `Apache-2.0` — バックテストを備えたAIネイティブなモジュラー定量トレーディング基盤。
-- [FinMem-LLM-StockTrading](https://github.com/pipiku915/FinMem-LLM-StockTrading) ⭐ `918` `Python` `MIT` — 階層化記憶とキャラクター設計を持つLLM株売買エージェント。
-- [Stockagent](https://github.com/MingyuJ666/Stockagent) ⭐ `680` `Python` `—` — シミュレートされた実世界市場環境でのLLM駆動株売買。
-- [llm-agent-trader](https://github.com/jason8745/llm-agent-trader) ⭐ `375` `Python` `MIT` — LLMベースの判断分析を備えたAI株売買バックテストシステム。
-- [FinRL_DeepSeek](https://github.com/benstaf/FinRL_DeepSeek) ⭐ `329` `Jupyter Notebook` `MIT` — トレーディングエージェント向けLLM注入型リスク考慮強化学習。
-- [LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot) ⭐ `296` `Python` `MIT` — リアルタイム適応のためLLMを用いるマルチエージェントAIトレーディングシステム。
-- [TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) ⭐ `195` `Python` `MIT` — 社会経済市場シミュレーションのためのマルチエージェントLLMフレームワーク。
-- [robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot) ⭐ `118` `Python` `MIT` — Robinhoodと連携したAIトレーディングボット。
-- [FinAgent](https://github.com/DVampire/FinAgent) ⭐ `75` `Python` `MIT` — ツール拡張LLMによる金融トレードのためのマルチモーダル基盤エージェント。
-- [AutoTrader-AgentEdge](https://github.com/iAmGiG/AutoTrader-AgentEdge) ⭐ `18` `Python` `AGPL-3.0` — ウォークフォワード検証を備えた本番用マルチエージェントトレーディングプラットフォーム。
-- [Auto-Trader](https://github.com/Itachi-Uchiha581/Auto-Trader) ⭐ `14` `Python` `MIT` — 取引を自動実行するLLM駆動トレーディングボット。
-- [trade-agent](https://github.com/mocasus/trade-agent) ⭐ `8` `Python` `MIT` — 市場・ニュース・指標にLLMを用いたモジュラーAIトレーディングエージェント。
-- [ai-hedge-fund](https://github.com/zhound420/ai-hedge-fund) ⭐ `0` `Python` `—` — AlpacaペーパートレードとLLMアナリストによるマルチエージェント株ヘッジファンド。
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 投資家ペルソナをシミュレートするマルチエージェントLLMヘッジファンドチーム。 | 60.7k | `Python` | `MIT` |
+| [AI-Trader](https://github.com/HKUDS/AI-Trader) | AIエージェント向け完全自動エージェントネイティブトレーディングプラットフォーム。 | 20.3k | `Python` | `—` |
+| [Qbot](https://github.com/UFund-Me/Qbot) | AI主導の定量的投資研究と自動トレードプラットフォーム。 | 17.9k | `Jupyter Notebook` | `MIT` |
+| [FinRL](https://github.com/AI4Finance-Foundation/FinRL) | 金融強化学習ライブラリとトレーディングエージェントエコシステム。 | 15.6k | `Jupyter Notebook` | `MIT` |
+| [FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) | バックテストを備えたAIネイティブなモジュラー定量トレーディング基盤。 | 3.4k | `Python` | `Apache-2.0` |
+| [FinMem-LLM-StockTrading](https://github.com/pipiku915/FinMem-LLM-StockTrading) | 階層化記憶とキャラクター設計を持つLLM株売買エージェント。 | 918 | `Python` | `MIT` |
+| [Stockagent](https://github.com/MingyuJ666/Stockagent) | シミュレートされた実世界市場環境でのLLM駆動株売買。 | 680 | `Python` | `—` |
+| [llm-agent-trader](https://github.com/jason8745/llm-agent-trader) | LLMベースの判断分析を備えたAI株売買バックテストシステム。 | 375 | `Python` | `MIT` |
+| [FinRL_DeepSeek](https://github.com/benstaf/FinRL_DeepSeek) | トレーディングエージェント向けLLM注入型リスク考慮強化学習。 | 329 | `Jupyter Notebook` | `MIT` |
+| [LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot) | リアルタイム適応のためLLMを用いるマルチエージェントAIトレーディングシステム。 | 296 | `Python` | `MIT` |
+| [TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) | 社会経済市場シミュレーションのためのマルチエージェントLLMフレームワーク。 | 195 | `Python` | `MIT` |
+| [robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot) | Robinhoodと連携したAIトレーディングボット。 | 118 | `Python` | `MIT` |
+| [FinAgent](https://github.com/DVampire/FinAgent) | ツール拡張LLMによる金融トレードのためのマルチモーダル基盤エージェント。 | 75 | `Python` | `MIT` |
+| [AutoTrader-AgentEdge](https://github.com/iAmGiG/AutoTrader-AgentEdge) | ウォークフォワード検証を備えた本番用マルチエージェントトレーディングプラットフォーム。 | 18 | `Python` | `AGPL-3.0` |
+| [Auto-Trader](https://github.com/Itachi-Uchiha581/Auto-Trader) | 取引を自動実行するLLM駆動トレーディングボット。 | 14 | `Python` | `MIT` |
+| [trade-agent](https://github.com/mocasus/trade-agent) | 市場・ニュース・指標にLLMを用いたモジュラーAIトレーディングエージェント。 | 8 | `Python` | `MIT` |
+| [ai-hedge-fund](https://github.com/zhound420/ai-hedge-fund) | AlpacaペーパートレードとLLMアナリストによるマルチエージェント株ヘッジファンド。 | 0 | `Python` | `—` |
 
 <a id="learning"></a>
 ## 6. 🎓 学習 / 教育プラットフォーム
 
-- [finllm-apps](https://github.com/tinztwins/finllm-apps) ⭐ `152` `Python` `MIT` — オープンソースFinLLMアプリとデモのコレクション。
-- [Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs) ⭐ `129` `—` `MIT` — 金融サービスにおける実世界LLM実装のまとめ。
-- [finLLM](https://github.com/ArchishmanSengupta/finLLM) ⭐ `7` `Python` `—` — 金融百科事典をベースに構築された対話型FinLLMデモ。
-- [AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) ⭐ `6` `TypeScript` `—` — Next.jsとOpenAIで構築されたAI株市場チャットボット。
-- [finLLM](https://github.com/Entropov/finLLM) ⭐ `1` `Python` `—` — 金融Q&Aのための実験的金融LLMインストラクター。
-- [FinancialLiteracyChatbot](https://github.com/24prathamesh2004/FinancialLiteracyChatbot) ⭐ `2` `HTML` `—` — 個人金融・投資基礎を学ぶ対話型金融リテラシーチャットボット。
-- [FinWise](https://github.com/aadithya2007/FinWise) ⭐ `1` `JavaScript` `—` — 金融リテラシーと投資の基礎を教える対話型アシスタント。
-- [financial-literacy-chatbot](https://github.com/sparsh-j01/financial-literacy-chatbot) ⭐ `1` `HTML` `—` — Google Gemini駆動のバイリンガル金融リテラシーチャットボット。
-- [ArthSakhi](https://github.com/SmritiD2004/ArthSakhi) ⭐ `1` `Python` `—` — インドの女性向けにカスタマイズされた金融リテラシーチャットボット。
-- [AI_FinancialTutor](https://github.com/NaniSkinner/AI_FinancialTutor) ⭐ `0` `TypeScript` `—` — 対話的投資・金融教育のためのAI金融チューター。
-- [FinancialLiteracyChatbot](https://github.com/premnath228004/FinancialLiteracyChatbot) ⭐ `0` `Python` `—` — CLIとWhatsApp対応のバイリンガル金融リテラシーチャットボット。
-- [financial-literacy-bot](https://github.com/Collin17Muse/financial-literacy-bot) ⭐ `0` `HTML` `—` — 教え、クイズ、進捗管理を行う対話型金融リテラシーボット。
-- [Multilingual_financial_Chatbot](https://github.com/Indhumathi-RA/Multilingual_financial_Chatbot) ⭐ `0` `Jupyter Notebook` `—` — 香港の金融概念に関するマルチリンガルRAGチャットボット。
-- [syf-finlit-agent](https://github.com/SidharthAnand04/syf-finlit-agent) ⭐ `0` `TypeScript` `—` — クレジット商品を説明し金融リテラシーを向上させるAIエージェント。
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [finllm-apps](https://github.com/tinztwins/finllm-apps) | オープンソースFinLLMアプリとデモのコレクション。 | 152 | `Python` | `MIT` |
+| [Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs) | 金融サービスにおける実世界LLM実装のまとめ。 | 129 | `—` | `MIT` |
+| [finLLM](https://github.com/ArchishmanSengupta/finLLM) | 金融百科事典をベースに構築された対話型FinLLMデモ。 | 7 | `Python` | `—` |
+| [AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) | Next.jsとOpenAIで構築されたAI株市場チャットボット。 | 6 | `TypeScript` | `—` |
+| [finLLM](https://github.com/Entropov/finLLM) | 金融Q&Aのための実験的金融LLMインストラクター。 | 1 | `Python` | `—` |
+| [FinancialLiteracyChatbot](https://github.com/24prathamesh2004/FinancialLiteracyChatbot) | 個人金融・投資基礎を学ぶ対話型金融リテラシーチャットボット。 | 2 | `HTML` | `—` |
+| [FinWise](https://github.com/aadithya2007/FinWise) | 金融リテラシーと投資の基礎を教える対話型アシスタント。 | 1 | `JavaScript` | `—` |
+| [financial-literacy-chatbot](https://github.com/sparsh-j01/financial-literacy-chatbot) | Google Gemini駆動のバイリンガル金融リテラシーチャットボット。 | 1 | `HTML` | `—` |
+| [ArthSakhi](https://github.com/SmritiD2004/ArthSakhi) | インドの女性向けにカスタマイズされた金融リテラシーチャットボット。 | 1 | `Python` | `—` |
+| [AI_FinancialTutor](https://github.com/NaniSkinner/AI_FinancialTutor) | 対話的投資・金融教育のためのAI金融チューター。 | 0 | `TypeScript` | `—` |
+| [FinancialLiteracyChatbot](https://github.com/premnath228004/FinancialLiteracyChatbot) | CLIとWhatsApp対応のバイリンガル金融リテラシーチャットボット。 | 0 | `Python` | `—` |
+| [financial-literacy-bot](https://github.com/Collin17Muse/financial-literacy-bot) | 教え、クイズ、進捗管理を行う対話型金融リテラシーボット。 | 0 | `HTML` | `—` |
+| [Multilingual_financial_Chatbot](https://github.com/Indhumathi-RA/Multilingual_financial_Chatbot) | 香港の金融概念に関するマルチリンガルRAGチャットボット。 | 0 | `Jupyter Notebook` | `—` |
+| [syf-finlit-agent](https://github.com/SidharthAnand04/syf-finlit-agent) | クレジット商品を説明し金融リテラシーを向上させるAIエージェント。 | 0 | `TypeScript` | `—` |
 
 <a id="datasets"></a>
 ## 7. 📊 データセット＆ベンチマーク
 
-- [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) ⭐ `1.9k` `Python` `MIT` — 金融強化学習向け動的データセットと市場環境。
-- [FNSPID_Financial_News_Dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset) ⭐ `432` `Python` `NOASSERTION` — S&P500時系列予測のための大規模金融ニュース・株価データセット。
-- [FinLLMs](https://github.com/adlnlp/FinLLMs) ⭐ `380` `—` `—` — 金融分野の大規模言語モデルに関する論文のベンチマークとデータセット。
-- [financebench](https://github.com/patronus-ai/financebench) ⭐ `332` `Jupyter Notebook` `—` — LLM向けオーブック型金融質問応答ベンチマーク。
-- [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval) ⭐ `278` `Python` `Apache-2.0` — LLM評価のための26,000問以上の中国語金融領域ベンチマーク。
-- [live-trade-bench](https://github.com/ulab-uiuc/live-trade-bench) ⭐ `160` `Python` `NOASSERTION` — トレーディングエージェントのためのライブ評価ベンチマーク。
-- [BizFinBench](https://github.com/HiThink-Research/BizFinBench) ⭐ `167` `Python` `—` — LLM向けビジネス駆動の実世界金融ベンチマーク。
-- [cflue](https://github.com/aliyun/cflue) ⭐ `91` `Python` `—` — LLM向け中国語金融言語理解ベンチマーク。
-- [FinLoRA](https://github.com/Open-Finance-Lab/FinLoRA) ⭐ `66` `Python` `NOASSERTION` — 金融データでのLLMファインチューニングのためのLoRAベンチマーク。
-- [FLANG](https://github.com/SALT-NLP/FLANG) ⭐ `57` `Python` `Apache-2.0` — 金融領域事前学習モデルとFLUEベンチマークスuite.
-- [CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) ⭐ `55` `Python` `Apache-2.0` — 大規模言語モデル向け中国語金融アシスタントベンチマーク。
-- [FinMTEB](https://github.com/yixuantt/FinMTEB) ⭐ `54` `Python` `—` — 64のデータセットに跨る金融大規模テキスト埋め込みベンチマーク。
-- [FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard) ⭐ `26` `Jupyter Notebook` `MIT` — 金融LLMとエージェントを評価するリーダーボード。
-- [CNFinBench](https://github.com/open-compass/CNFinBench) ⭐ `16` `Python` `—` — エージェントチェインを含む高難易度中国語金融総合ベンチマーク。
-- [FinBen](https://github.com/The-FinAI/FinBen) ⭐ `15` `Python` `—` — 金融タスクでのLLM評価のための包括的ベンチマークスweat.
-- [FinanceQA](https://github.com/AfterQuery/FinanceQA) ⭐ `8` `—` `—` — LLMの金融分析能力を評価するためのベンチマーク。
+| Project | Description | ⭐ Stars | Language | License |
+|---|---|---:|---|---|
+| [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) | 金融強化学習向け動的データセットと市場環境。 | 1.9k | `Python` | `MIT` |
+| [FNSPID_Financial_News_Dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset) | S&P500時系列予測のための大規模金融ニュース・株価データセット。 | 432 | `Python` | `NOASSERTION` |
+| [FinLLMs](https://github.com/adlnlp/FinLLMs) | 金融分野の大規模言語モデルに関する論文のベンチマークとデータセット。 | 380 | `—` | `—` |
+| [financebench](https://github.com/patronus-ai/financebench) | LLM向けオーブック型金融質問応答ベンチマーク。 | 332 | `Jupyter Notebook` | `—` |
+| [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval) | LLM評価のための26,000問以上の中国語金融領域ベンチマーク。 | 278 | `Python` | `Apache-2.0` |
+| [live-trade-bench](https://github.com/ulab-uiuc/live-trade-bench) | トレーディングエージェントのためのライブ評価ベンチマーク。 | 160 | `Python` | `NOASSERTION` |
+| [BizFinBench](https://github.com/HiThink-Research/BizFinBench) | LLM向けビジネス駆動の実世界金融ベンチマーク。 | 167 | `Python` | `—` |
+| [cflue](https://github.com/aliyun/cflue) | LLM向け中国語金融言語理解ベンチマーク。 | 91 | `Python` | `—` |
+| [FinLoRA](https://github.com/Open-Finance-Lab/FinLoRA) | 金融データでのLLMファインチューニングのためのLoRAベンチマーク。 | 66 | `Python` | `NOASSERTION` |
+| [FLANG](https://github.com/SALT-NLP/FLANG) | 金融領域事前学習モデルとFLUEベンチマークスuite. | 57 | `Python` | `Apache-2.0` |
+| [CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) | 大規模言語モデル向け中国語金融アシスタントベンチマーク。 | 55 | `Python` | `Apache-2.0` |
+| [FinMTEB](https://github.com/yixuantt/FinMTEB) | 64のデータセットに跨る金融大規模テキスト埋め込みベンチマーク。 | 54 | `Python` | `—` |
+| [FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard) | 金融LLMとエージェントを評価するリーダーボード。 | 26 | `Jupyter Notebook` | `MIT` |
+| [CNFinBench](https://github.com/open-compass/CNFinBench) | エージェントチェインを含む高難易度中国語金融総合ベンチマーク。 | 16 | `Python` | `—` |
+| [FinBen](https://github.com/The-FinAI/FinBen) | 金融タスクでのLLM評価のための包括的ベンチマークスweat. | 15 | `Python` | `—` |
+| [FinanceQA](https://github.com/AfterQuery/FinanceQA) | LLMの金融分析能力を評価するためのベンチマーク。 | 8 | `—` | `—` |
 
 <a id="papers"></a>
 ## 8. 🧪 コード付き研究論文
