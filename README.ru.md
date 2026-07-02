@@ -33,7 +33,7 @@
 - **[Telegram OpenClaw 中文社区](https://t.me/OpenClaw_Group)** — китаязычное сообщество OpenClaw в Telegram — благодарим за поддержку и обсуждения.
 - **[Linux.do](https://linux.do)** — китаязычное сообщество разработчиков и технических специалистов (Discourse) — благодарим за обратную связь и охват.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg) ![Tools](https://img.shields.io/badge/tools-93+-blue) ![Focus: Multi-Agent + LLM Stocks](https://img.shields.io/badge/focus-Multi--Agent%20%2B%20LLM%20stocks-purple) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg) ![Tools](https://img.shields.io/badge/tools-93+-blue) ![Focus: Multi-Agent + LLM Stocks](https://img.shields.io/badge/focus-Multi--Agent%20%2B%20LLM%20stocks-purple) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) [![Telegram](https://img.shields.io/badge/Telegram-OpenClaw-2AABEE?style=flat&logo=telegram&logoColor=white)](https://t.me/OpenClaw_Group)
 
 ---
 
@@ -61,127 +61,127 @@
 <a id="foundation-llms"></a>
 ## 1. 🏛️ Базовые финансовые LLM
 
-| Project | Description | ⭐ Stars | Language | License |
-|---|---|---:|---|---|
-| [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | Открытый финансовый LLM-фреймворк с данными, дообучением, RL и торговыми приложениями. | 20.8k | `Jupyter Notebook` | `MIT` |
-| [XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan) | Китайская большая языковая модель для финансового диалога от Duxiaoman. | 1.3k | `Python` | `—` |
-| [DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM) | Китайская финансовая LLM для профессионального финансового консультирования. | 888 | `Python` | `Apache-2.0` |
-| [PIXIU](https://github.com/The-FinAI/PIXIU) | Финансовые LLM, данные для инструкционной настройки и комплексные бенчмарки. | 872 | `Jupyter Notebook` | `MIT` |
-| [InvestLM](https://github.com/AbaciNLP/InvestLM) | Большая языковая модель, ориентированная на финансы и инвестиции. | 153 | `Python` | `—` |
-| [CFGPT](https://github.com/TongjiFinLab/CFGPT) | Китайский финансовый ассистент на основе большой языковой модели. | 91 | `Python` | `Apache-2.0` |
-| [BloombergGPT_zh](https://github.com/sunshineyg2018/BloombergGPT_zh) | Китайская реализация/воспроизведение BloombergGPT. | 58 | `—` | `—` |
-| [FinRAG](https://github.com/AI4Finance-Foundation/FinRAG) | Система генерации с извлечением для финансовых доменов. | 53 | `Python` | `Apache-2.0` |
+| Project | Description | ⭐ Stars | Language | License | 📖 Docs |
+|---|---|---:|---|---|---|
+| [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | Открытый финансовый LLM-фреймворк с данными, дообучением, RL и торговыми приложениями. | 20.8k | `Jupyter Notebook` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/AI4Finance-Foundation/FinGPT) |
+| [XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan) | Китайская большая языковая модель для финансового диалога от Duxiaoman. | 1.3k | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/Duxiaoman-DI/XuanYuan) |
+| [DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM) | Китайская финансовая LLM для профессионального финансового консультирования. | 888 | `Python` | `Apache-2.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/FudanDISC/DISC-FinLLM) |
+| [PIXIU](https://github.com/The-FinAI/PIXIU) | Финансовые LLM, данные для инструкционной настройки и комплексные бенчмарки. | 872 | `Jupyter Notebook` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/The-FinAI/PIXIU) |
+| [InvestLM](https://github.com/AbaciNLP/InvestLM) | Большая языковая модель, ориентированная на финансы и инвестиции. | 153 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/AbaciNLP/InvestLM) |
+| [CFGPT](https://github.com/TongjiFinLab/CFGPT) | Китайский финансовый ассистент на основе большой языковой модели. | 91 | `Python` | `Apache-2.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/TongjiFinLab/CFGPT) |
+| [BloombergGPT_zh](https://github.com/sunshineyg2018/BloombergGPT_zh) | Китайская реализация/воспроизведение BloombergGPT. | 58 | `—` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/sunshineyg2018/BloombergGPT_zh) |
+| [FinRAG](https://github.com/AI4Finance-Foundation/FinRAG) | Система генерации с извлечением для финансовых доменов. | 53 | `Python` | `Apache-2.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/AI4Finance-Foundation/FinRAG) |
 
 <a id="multi-agent"></a>
 ## 2. 🤖 Мультиагентные фреймворки для торговли и анализа
 
-| Project | Description | ⭐ Stars | Language | License |
-|---|---|---:|---|---|
-| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | Мультиагентный LLM-фреймворк для торговли, имитирующий специализированные роли в торговой фирме. | 90.3k | `Python` | `Apache-2.0` |
-| [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | Открытая платформа ИИ-агентов для финансового анализа на основе LLM. | 7.4k | `Jupyter Notebook` | `Apache-2.0` |
-| [TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock) | Мультиагентный исследовательский фреймворк для акций A-shares на базе TradingAgents. | 1.6k | `Python` | `Apache-2.0` |
-| [AgenticTrading](https://github.com/Open-Finance-Lab/AgenticTrading) | Открытая платформа для торговых агентов на базе LLM и бэктестинга. | 260 | `Python` | `NOASSERTION` |
-| [AlpacaTradingAgent](https://github.com/huygiatrng/AlpacaTradingAgent) | Мультиагентный LLM-фреймворк для торговли, интегрированный с Alpaca для реальных сделок. | 238 | `Python` | `Apache-2.0` |
-| [MarketAgents](https://github.com/marketagents-ai/MarketAgents) | Фреймворк оркестрации экономических ИИ-агентов и рыночных симуляций. | 116 | `Python` | `—` |
-| [LLM-Economist](https://github.com/sethkarten/LLM-Economist) | Мультиагентная симуляция с большим числом LLM для механизмов и налоговой политики. | 114 | `Python` | `MIT` |
-| [ai-economist](https://github.com/salesforce/ai-economist) | Мультиагентный RL-фреймворк для социально-экономического поведения и проектирования политики. | 110 | `Python` | `BSD-3-Clause` |
-| [orallexa-ai-trading-agent](https://github.com/alex-jb/orallexa-ai-trading-agent) | Самонастраиваемая мультиагентная торговая система с дебатами бык/медведь/судья. | 52 | `Python` | `MIT` |
+| Project | Description | ⭐ Stars | Language | License | 📖 Docs |
+|---|---|---:|---|---|---|
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | Мультиагентный LLM-фреймворк для торговли, имитирующий специализированные роли в торговой фирме. | 90.3k | `Python` | `Apache-2.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/TauricResearch/TradingAgents) |
+| [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | Открытая платформа ИИ-агентов для финансового анализа на основе LLM. | 7.4k | `Jupyter Notebook` | `Apache-2.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/AI4Finance-Foundation/FinRobot) |
+| [TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock) | Мультиагентный исследовательский фреймворк для акций A-shares на базе TradingAgents. | 1.6k | `Python` | `Apache-2.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/simonlin1212/TradingAgents-astock) |
+| [AgenticTrading](https://github.com/Open-Finance-Lab/AgenticTrading) | Открытая платформа для торговых агентов на базе LLM и бэктестинга. | 260 | `Python` | `NOASSERTION` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/Open-Finance-Lab/AgenticTrading) |
+| [AlpacaTradingAgent](https://github.com/huygiatrng/AlpacaTradingAgent) | Мультиагентный LLM-фреймворк для торговли, интегрированный с Alpaca для реальных сделок. | 238 | `Python` | `Apache-2.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/huygiatrng/AlpacaTradingAgent) |
+| [MarketAgents](https://github.com/marketagents-ai/MarketAgents) | Фреймворк оркестрации экономических ИИ-агентов и рыночных симуляций. | 116 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/marketagents-ai/MarketAgents) |
+| [LLM-Economist](https://github.com/sethkarten/LLM-Economist) | Мультиагентная симуляция с большим числом LLM для механизмов и налоговой политики. | 114 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/sethkarten/LLM-Economist) |
+| [ai-economist](https://github.com/salesforce/ai-economist) | Мультиагентный RL-фреймворк для социально-экономического поведения и проектирования политики. | 110 | `Python` | `BSD-3-Clause` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/salesforce/ai-economist) |
+| [orallexa-ai-trading-agent](https://github.com/alex-jb/orallexa-ai-trading-agent) | Самонастраиваемая мультиагентная торговая система с дебатами бык/медведь/судья. | 52 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/alex-jb/orallexa-ai-trading-agent) |
 
 <a id="stock-analysis"></a>
 ## 3. 📈 LLM для анализа акций, прогнозирования и исследовательских отчётов
 
-| Project | Description | ⭐ Stars | Language | License |
-|---|---|---:|---|---|
-| [deep-research-machine](https://github.com/druce/deep-research-machine) | Асинхронный пайплайн исследования акций с использованием LLM. | 11 | `Python` | `—` |
-| [AI-Stock-Analyst-Agent-Langchain-Deepseek](https://github.com/Bisma-Shafiq/AI-Stock-Analyst-Agent-Langchain-Deepseek) | Агент на LangChain/DeepSeek для анализа акций. | 7 | `Python` | `—` |
-| [openbb-rag-financial-research-agent](https://github.com/sandole/openbb-rag-financial-research-agent) | RAG-агент для SEC-документов и финансовых исследований. | 7 | `Python` | `—` |
-| [stock_research_agent](https://github.com/druce/stock_research_agent) | Генерация исследовательского отчёта по акциям через Claude agent SDK. | 3 | `Python` | `—` |
-| [multi-horizon-financial-agent](https://github.com/srx7703/multi-horizon-financial-agent) | Агент с использованием инструментов, синтезирующий SEC- и рыночные брифы. | 2 | `Python` | `MIT` |
-| [stockgpt](https://github.com/ESJavadex/stockgpt) | Анализ акций и генерация инвестиционных отчётов с помощью GPT-4. | 2 | `Python` | `MIT` |
-| [StockerLens](https://github.com/Aswin-Cheerngodan/StockerLens) | Мультимодальное прогнозирование цен акций с сентимент-анализом и анализом графиков. | 1 | `Jupyter Notebook` | `—` |
-| [stock_signal_analyzer](https://github.com/mmovsesyan/stock_signal_analyzer) | Самообучающаяся система для акций с сентимент-анализом новостей через LLM и планированием. | 1 | `Python` | `—` |
-| [daily_stock_analysis](https://github.com/chief0714/daily_stock_analysis) | Ежедневный мульти-рынковый анализ акций на базе LLM. | 1 | `Python` | `MIT` |
+| Project | Description | ⭐ Stars | Language | License | 📖 Docs |
+|---|---|---:|---|---|---|
+| [deep-research-machine](https://github.com/druce/deep-research-machine) | Асинхронный пайплайн исследования акций с использованием LLM. | 11 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/druce/deep-research-machine) |
+| [AI-Stock-Analyst-Agent-Langchain-Deepseek](https://github.com/Bisma-Shafiq/AI-Stock-Analyst-Agent-Langchain-Deepseek) | Агент на LangChain/DeepSeek для анализа акций. | 7 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/Bisma-Shafiq/AI-Stock-Analyst-Agent-Langchain-Deepseek) |
+| [openbb-rag-financial-research-agent](https://github.com/sandole/openbb-rag-financial-research-agent) | RAG-агент для SEC-документов и финансовых исследований. | 7 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/sandole/openbb-rag-financial-research-agent) |
+| [stock_research_agent](https://github.com/druce/stock_research_agent) | Генерация исследовательского отчёта по акциям через Claude agent SDK. | 3 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/druce/stock_research_agent) |
+| [multi-horizon-financial-agent](https://github.com/srx7703/multi-horizon-financial-agent) | Агент с использованием инструментов, синтезирующий SEC- и рыночные брифы. | 2 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/srx7703/multi-horizon-financial-agent) |
+| [stockgpt](https://github.com/ESJavadex/stockgpt) | Анализ акций и генерация инвестиционных отчётов с помощью GPT-4. | 2 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/ESJavadex/stockgpt) |
+| [StockerLens](https://github.com/Aswin-Cheerngodan/StockerLens) | Мультимодальное прогнозирование цен акций с сентимент-анализом и анализом графиков. | 1 | `Jupyter Notebook` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/Aswin-Cheerngodan/StockerLens) |
+| [stock_signal_analyzer](https://github.com/mmovsesyan/stock_signal_analyzer) | Самообучающаяся система для акций с сентимент-анализом новостей через LLM и планированием. | 1 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/mmovsesyan/stock_signal_analyzer) |
+| [daily_stock_analysis](https://github.com/chief0714/daily_stock_analysis) | Ежедневный мульти-рынковый анализ акций на базе LLM. | 1 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/chief0714/daily_stock_analysis) |
 
 <a id="sentiment-nlp"></a>
 ## 4. 📰 Финансовый сентимент и NLP для новостей/соцсетей
 
-| Project | Description | ⭐ Stars | Language | License |
-|---|---|---:|---|---|
-| [finBERT](https://github.com/ProsusAI/finBERT) | BERT-классификатор финансового сентимента для новостей и документов. | 2.2k | `Jupyter Notebook` | `Apache-2.0` |
-| [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) | Библиотека финансового NLP для масштабных рыночных текстов. | 1.5k | `Jupyter Notebook` | `MIT` |
-| [FinBERT](https://github.com/valuesimplex/FinBERT) | Реализация FinBERT для классификации финансовых текстов. | 925 | `Python` | `MIT` |
-| [FinBERT](https://github.com/yya518/FinBERT) | Предобученный BERT для сентимента финансовых коммуникаций. | 657 | `Jupyter Notebook` | `Apache-2.0` |
-| [StockEmotions](https://github.com/adlnlp/StockEmotions) | Датасет и код для эмоций инвесторов и финансового сентимента. | 95 | `Jupyter Notebook` | `—` |
-| [finnlp-sentiment](https://github.com/nlp-chula/finnlp-sentiment) | Тайские инструменты и модели для финансового сентимент-анализа. | 26 | `Python` | `—` |
-| [twitter-alpha-sentiment-tracker-v2](https://github.com/Rezzecup/twitter-alpha-sentiment-tracker-v2) | Трекер сентимента smart-money в X/Twitter в реальном времени. | 21 | `Python` | `—` |
-| [Aspect-based-Financial-Sentiment-Analysis](https://github.com/ashishsalunkhe/Aspect-based-Financial-Sentiment-Analysis) | Aspect-based решение для финансового сентимента в рамках FiQA. | 11 | `Jupyter Notebook` | `—` |
-| [FinChina-SA](https://github.com/YerayL/FinChina-SA) | Китайский датасет с детальным финансовым сентиментом и код. | 7 | `Python` | `Apache-2.0` |
-| [earnings-edge](https://github.com/suhaas/earnings-edge) | Мультиагентное приложение на LangGraph для аналитических брифов по транскриптам прибыли. | 6 | `Python` | `—` |
+| Project | Description | ⭐ Stars | Language | License | 📖 Docs |
+|---|---|---:|---|---|---|
+| [finBERT](https://github.com/ProsusAI/finBERT) | BERT-классификатор финансового сентимента для новостей и документов. | 2.2k | `Jupyter Notebook` | `Apache-2.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/ProsusAI/finBERT) |
+| [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) | Библиотека финансового NLP для масштабных рыночных текстов. | 1.5k | `Jupyter Notebook` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/AI4Finance-Foundation/FinNLP) |
+| [FinBERT](https://github.com/valuesimplex/FinBERT) | Реализация FinBERT для классификации финансовых текстов. | 925 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/valuesimplex/FinBERT) |
+| [FinBERT](https://github.com/yya518/FinBERT) | Предобученный BERT для сентимента финансовых коммуникаций. | 657 | `Jupyter Notebook` | `Apache-2.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/yya518/FinBERT) |
+| [StockEmotions](https://github.com/adlnlp/StockEmotions) | Датасет и код для эмоций инвесторов и финансового сентимента. | 95 | `Jupyter Notebook` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/adlnlp/StockEmotions) |
+| [finnlp-sentiment](https://github.com/nlp-chula/finnlp-sentiment) | Тайские инструменты и модели для финансового сентимент-анализа. | 26 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/nlp-chula/finnlp-sentiment) |
+| [twitter-alpha-sentiment-tracker-v2](https://github.com/Rezzecup/twitter-alpha-sentiment-tracker-v2) | Трекер сентимента smart-money в X/Twitter в реальном времени. | 21 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/Rezzecup/twitter-alpha-sentiment-tracker-v2) |
+| [Aspect-based-Financial-Sentiment-Analysis](https://github.com/ashishsalunkhe/Aspect-based-Financial-Sentiment-Analysis) | Aspect-based решение для финансового сентимента в рамках FiQA. | 11 | `Jupyter Notebook` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/ashishsalunkhe/Aspect-based-Financial-Sentiment-Analysis) |
+| [FinChina-SA](https://github.com/YerayL/FinChina-SA) | Китайский датасет с детальным финансовым сентиментом и код. | 7 | `Python` | `Apache-2.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/YerayL/FinChina-SA) |
+| [earnings-edge](https://github.com/suhaas/earnings-edge) | Мультиагентное приложение на LangGraph для аналитических брифов по транскриптам прибыли. | 6 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/suhaas/earnings-edge) |
 
 <a id="trading-bots"></a>
 ## 5. 💹 LLM/агентные торговые боты и бэктестинг
 
-| Project | Description | ⭐ Stars | Language | License |
-|---|---|---:|---|---|
-| [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Мультиагентный LLM-фонд, моделирующий инвесторские персоны для принятия решений об акциях. | 60.7k | `Python` | `MIT` |
-| [AI-Trader](https://github.com/HKUDS/AI-Trader) | Полностью автоматизированная торговая платформа для ИИ-агентов. | 20.3k | `Python` | `—` |
-| [Qbot](https://github.com/UFund-Me/Qbot) | Платформа для квантовых инвестиций и автоторговли на базе ИИ. | 17.9k | `Jupyter Notebook` | `MIT` |
-| [FinRL](https://github.com/AI4Finance-Foundation/FinRL) | Библиотека финансового обучения с подкреплением и экосистема торговых агентов. | 15.6k | `Jupyter Notebook` | `MIT` |
-| [FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) | ИИ-нативная модульная инфраструктура квантовой торговли с бэктестингом. | 3.4k | `Python` | `Apache-2.0` |
-| [FinMem-LLM-StockTrading](https://github.com/pipiku915/FinMem-LLM-StockTrading) | LLM-агент для торговли акциями с иерархической памятью и продуманным характером. | 918 | `Python` | `MIT` |
-| [Stockagent](https://github.com/MingyuJ666/Stockagent) | Торговля акциями на основе LLM в симулированных реальных рыночных условиях. | 680 | `Python` | `—` |
-| [llm-agent-trader](https://github.com/jason8745/llm-agent-trader) | Система бэктестинга торговли акциями с LLM-анализом решений. | 375 | `Python` | `MIT` |
-| [FinRL_DeepSeek](https://github.com/benstaf/FinRL_DeepSeek) | Обучение с подкреплением с учётом риска и интеграцией LLM для торговых агентов. | 329 | `Jupyter Notebook` | `MIT` |
-| [LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot) | Мультиагентная ИИ-торговая система, использующая LLM для адаптации в реальном времени. | 296 | `Python` | `MIT` |
-| [TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) | Мультиагентный LLM-фреймворк для социально-экономического моделирования рынка. | 195 | `Python` | `MIT` |
-| [robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot) | Торговый бот на базе ИИ, интегрированный с Robinhood. | 118 | `Python` | `MIT` |
-| [FinAgent](https://github.com/DVampire/FinAgent) | Мультимодальный базовый агент для финансовой торговли с LLM, расширенной инструментами. | 75 | `Python` | `MIT` |
-| [AutoTrader-AgentEdge](https://github.com/iAmGiG/AutoTrader-AgentEdge) | Продакшн-мультиагентная торговая платформа с прямой валидацией (walk-forward). | 18 | `Python` | `AGPL-3.0` |
-| [Auto-Trader](https://github.com/Itachi-Uchiha581/Auto-Trader) | Торговый бот на базе LLM, автоматически исполняющий сделки. | 14 | `Python` | `MIT` |
-| [trade-agent](https://github.com/mocasus/trade-agent) | Модульный ИИ-торговый агент, использующий LLM для рынка, новостей и индикаторов. | 8 | `Python` | `MIT` |
-| [ai-hedge-fund](https://github.com/zhound420/ai-hedge-fund) | Мультиагентный хедж-фонд с бумажной торговлей Alpaca и LLM-аналитиками. | 0 | `Python` | `—` |
+| Project | Description | ⭐ Stars | Language | License | 📖 Docs |
+|---|---|---:|---|---|---|
+| [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Мультиагентный LLM-фонд, моделирующий инвесторские персоны для принятия решений об акциях. | 60.7k | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/virattt/ai-hedge-fund) |
+| [AI-Trader](https://github.com/HKUDS/AI-Trader) | Полностью автоматизированная торговая платформа для ИИ-агентов. | 20.3k | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/HKUDS/AI-Trader) |
+| [Qbot](https://github.com/UFund-Me/Qbot) | Платформа для квантовых инвестиций и автоторговли на базе ИИ. | 17.9k | `Jupyter Notebook` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/UFund-Me/Qbot) |
+| [FinRL](https://github.com/AI4Finance-Foundation/FinRL) | Библиотека финансового обучения с подкреплением и экосистема торговых агентов. | 15.6k | `Jupyter Notebook` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/AI4Finance-Foundation/FinRL) |
+| [FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) | ИИ-нативная модульная инфраструктура квантовой торговли с бэктестингом. | 3.4k | `Python` | `Apache-2.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/AI4Finance-Foundation/FinRL-Trading) |
+| [FinMem-LLM-StockTrading](https://github.com/pipiku915/FinMem-LLM-StockTrading) | LLM-агент для торговли акциями с иерархической памятью и продуманным характером. | 918 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/pipiku915/FinMem-LLM-StockTrading) |
+| [Stockagent](https://github.com/MingyuJ666/Stockagent) | Торговля акциями на основе LLM в симулированных реальных рыночных условиях. | 680 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/MingyuJ666/Stockagent) |
+| [llm-agent-trader](https://github.com/jason8745/llm-agent-trader) | Система бэктестинга торговли акциями с LLM-анализом решений. | 375 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/jason8745/llm-agent-trader) |
+| [FinRL_DeepSeek](https://github.com/benstaf/FinRL_DeepSeek) | Обучение с подкреплением с учётом риска и интеграцией LLM для торговых агентов. | 329 | `Jupyter Notebook` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/benstaf/FinRL_DeepSeek) |
+| [LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot) | Мультиагентная ИИ-торговая система, использующая LLM для адаптации в реальном времени. | 296 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/EthanAlgoX/LLM-TradeBot) |
+| [TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) | Мультиагентный LLM-фреймворк для социально-экономического моделирования рынка. | 195 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/FreedomIntelligence/TwinMarket) |
+| [robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot) | Торговый бот на базе ИИ, интегрированный с Robinhood. | 118 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/siropkin/robinhood-ai-trading-bot) |
+| [FinAgent](https://github.com/DVampire/FinAgent) | Мультимодальный базовый агент для финансовой торговли с LLM, расширенной инструментами. | 75 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/DVampire/FinAgent) |
+| [AutoTrader-AgentEdge](https://github.com/iAmGiG/AutoTrader-AgentEdge) | Продакшн-мультиагентная торговая платформа с прямой валидацией (walk-forward). | 18 | `Python` | `AGPL-3.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/iAmGiG/AutoTrader-AgentEdge) |
+| [Auto-Trader](https://github.com/Itachi-Uchiha581/Auto-Trader) | Торговый бот на базе LLM, автоматически исполняющий сделки. | 14 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/Itachi-Uchiha581/Auto-Trader) |
+| [trade-agent](https://github.com/mocasus/trade-agent) | Модульный ИИ-торговый агент, использующий LLM для рынка, новостей и индикаторов. | 8 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/mocasus/trade-agent) |
+| [ai-hedge-fund](https://github.com/zhound420/ai-hedge-fund) | Мультиагентный хедж-фонд с бумажной торговлей Alpaca и LLM-аналитиками. | 0 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/zhound420/ai-hedge-fund) |
 
 <a id="learning"></a>
 ## 6. 🎓 Образовательные платформы
 
-| Project | Description | ⭐ Stars | Language | License |
-|---|---|---:|---|---|
-| [finllm-apps](https://github.com/tinztwins/finllm-apps) | Коллекция открытых FinLLM-приложений и демо. | 152 | `Python` | `MIT` |
-| [Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs) | Подборка реальных внедрений LLM в финансовых сервисах. | 129 | `—` | `MIT` |
-| [finLLM](https://github.com/ArchishmanSengupta/finLLM) | Конверсационная FinLLM-демо на основе финансовой энциклопедии. | 7 | `Python` | `—` |
-| [AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) | ИИ-чатбот для фондового рынка на Next.js и OpenAI. | 6 | `TypeScript` | `—` |
-| [finLLM](https://github.com/Entropov/finLLM) | Экспериментальный FinLLM-преподаватель для Q&A по финансам. | 1 | `Python` | `—` |
-| [FinancialLiteracyChatbot](https://github.com/24prathamesh2004/FinancialLiteracyChatbot) | Конверсационный чатбот для финансовой грамотности: личные финансы и основы инвестирования. | 2 | `HTML` | `—` |
-| [FinWise](https://github.com/aadithya2007/FinWise) | Конверсационный ассистент для обучения финансовой грамотности и основам инвестирования. | 1 | `JavaScript` | `—` |
-| [financial-literacy-chatbot](https://github.com/sparsh-j01/financial-literacy-chatbot) | Двуязычный чатбот финансовой грамотности на Google Gemini. | 1 | `HTML` | `—` |
-| [ArthSakhi](https://github.com/SmritiD2004/ArthSakhi) | Чатбот финансовой грамотности для женщин в Индии. | 1 | `Python` | `—` |
-| [AI_FinancialTutor](https://github.com/NaniSkinner/AI_FinancialTutor) | ИИ-репетитор для интерактивного обучения инвестициям и финансам. | 0 | `TypeScript` | `—` |
-| [FinancialLiteracyChatbot](https://github.com/premnath228004/FinancialLiteracyChatbot) | Двуязычный чатбот финансовой грамотности с CLI и доступом через WhatsApp. | 0 | `Python` | `—` |
-| [financial-literacy-bot](https://github.com/Collin17Muse/financial-literacy-bot) | Интерактивный чатбот финансовой грамотности с обучением, тестами и отслеживанием прогресса. | 0 | `HTML` | `—` |
-| [Multilingual_financial_Chatbot](https://github.com/Indhumathi-RA/Multilingual_financial_Chatbot) | Мультиязычный RAG-чатбот для гонконгских финансовых концепций. | 0 | `Jupyter Notebook` | `—` |
-| [syf-finlit-agent](https://github.com/SidharthAnand04/syf-finlit-agent) | ИИ-агент для объяснения кредитных продуктов и повышения финансовой грамотности. | 0 | `TypeScript` | `—` |
+| Project | Description | ⭐ Stars | Language | License | 📖 Docs |
+|---|---|---:|---|---|---|
+| [finllm-apps](https://github.com/tinztwins/finllm-apps) | Коллекция открытых FinLLM-приложений и демо. | 152 | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/tinztwins/finllm-apps) |
+| [Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs) | Подборка реальных внедрений LLM в финансовых сервисах. | 129 | `—` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/kennethleungty/Finance-LLMs) |
+| [finLLM](https://github.com/ArchishmanSengupta/finLLM) | Конверсационная FinLLM-демо на основе финансовой энциклопедии. | 7 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/ArchishmanSengupta/finLLM) |
+| [AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) | ИИ-чатбот для фондового рынка на Next.js и OpenAI. | 6 | `TypeScript` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/AbeTavarez/AI-Stock-Market-Chatbot) |
+| [finLLM](https://github.com/Entropov/finLLM) | Экспериментальный FinLLM-преподаватель для Q&A по финансам. | 1 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/Entropov/finLLM) |
+| [FinancialLiteracyChatbot](https://github.com/24prathamesh2004/FinancialLiteracyChatbot) | Конверсационный чатбот для финансовой грамотности: личные финансы и основы инвестирования. | 2 | `HTML` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/24prathamesh2004/FinancialLiteracyChatbot) |
+| [FinWise](https://github.com/aadithya2007/FinWise) | Конверсационный ассистент для обучения финансовой грамотности и основам инвестирования. | 1 | `JavaScript` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/aadithya2007/FinWise) |
+| [financial-literacy-chatbot](https://github.com/sparsh-j01/financial-literacy-chatbot) | Двуязычный чатбот финансовой грамотности на Google Gemini. | 1 | `HTML` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/sparsh-j01/financial-literacy-chatbot) |
+| [ArthSakhi](https://github.com/SmritiD2004/ArthSakhi) | Чатбот финансовой грамотности для женщин в Индии. | 1 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/SmritiD2004/ArthSakhi) |
+| [AI_FinancialTutor](https://github.com/NaniSkinner/AI_FinancialTutor) | ИИ-репетитор для интерактивного обучения инвестициям и финансам. | 0 | `TypeScript` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/NaniSkinner/AI_FinancialTutor) |
+| [FinancialLiteracyChatbot](https://github.com/premnath228004/FinancialLiteracyChatbot) | Двуязычный чатбот финансовой грамотности с CLI и доступом через WhatsApp. | 0 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/premnath228004/FinancialLiteracyChatbot) |
+| [financial-literacy-bot](https://github.com/Collin17Muse/financial-literacy-bot) | Интерактивный чатбот финансовой грамотности с обучением, тестами и отслеживанием прогресса. | 0 | `HTML` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/Collin17Muse/financial-literacy-bot) |
+| [Multilingual_financial_Chatbot](https://github.com/Indhumathi-RA/Multilingual_financial_Chatbot) | Мультиязычный RAG-чатбот для гонконгских финансовых концепций. | 0 | `Jupyter Notebook` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/Indhumathi-RA/Multilingual_financial_Chatbot) |
+| [syf-finlit-agent](https://github.com/SidharthAnand04/syf-finlit-agent) | ИИ-агент для объяснения кредитных продуктов и повышения финансовой грамотности. | 0 | `TypeScript` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/SidharthAnand04/syf-finlit-agent) |
 
 <a id="datasets"></a>
 ## 7. 📊 Датасеты и бенчмарки
 
-| Project | Description | ⭐ Stars | Language | License |
-|---|---|---:|---|---|
-| [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) | Динамические датасеты и рыночные среды для финансового RL. | 1.9k | `Python` | `MIT` |
-| [FNSPID_Financial_News_Dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset) | Крупный датасет финансовых новостей и цен акций S&P 500 для временных рядов. | 432 | `Python` | `NOASSERTION` |
-| [FinLLMs](https://github.com/adlnlp/FinLLMs) | Бенчмарки и датасеты для статьи Large Language Models in Finance. | 380 | `—` | `—` |
-| [financebench](https://github.com/patronus-ai/financebench) | Бенчмарк с открытым источником для финансового QA с LLM. | 332 | `Jupyter Notebook` | `—` |
-| [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval) | Китайский финансовый бенчмарк с 26 000+ вопросов для оценки LLM. | 278 | `Python` | `Apache-2.0` |
-| [live-trade-bench](https://github.com/ulab-uiuc/live-trade-bench) | Бенчмарк для оценки торговых агентов в реальном времени. | 160 | `Python` | `NOASSERTION` |
-| [BizFinBench](https://github.com/HiThink-Research/BizFinBench) | Бизнес-ориентированный реальный финансовый бенчмарк для LLM. | 167 | `Python` | `—` |
-| [cflue](https://github.com/aliyun/cflue) | Китайский бенчмарк понимания финансового языка для LLM. | 91 | `Python` | `—` |
-| [FinLoRA](https://github.com/Open-Finance-Lab/FinLoRA) | Бенчмаркинг LoRA для дообучения LLM на финансовых данных. | 66 | `Python` | `NOASSERTION` |
-| [FLANG](https://github.com/SALT-NLP/FLANG) | Предобученная модель для финансового домена и набор бенчмарков FLUE. | 57 | `Python` | `Apache-2.0` |
-| [CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) | Китайский бенчмарк финансового ассистента для больших языковых моделей. | 55 | `Python` | `Apache-2.0` |
-| [FinMTEB](https://github.com/yixuantt/FinMTEB) | Финансовый масштабный бенчмарк текстовых эмбеддингов на 64 датасетах. | 54 | `Python` | `—` |
-| [FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard) | Лидерборд для оценки финансовых LLM и агентов. | 26 | `Jupyter Notebook` | `MIT` |
-| [CNFinBench](https://github.com/open-compass/CNFinBench) | Комплексный высокорисковый китайский финансовый бенчмарк с цепочками агентов. | 16 | `Python` | `—` |
-| [FinBen](https://github.com/The-FinAI/FinBen) | Комплексный набор бенчмарков для оценки LLM на финансовых задачах. | 15 | `Python` | `—` |
-| [FinanceQA](https://github.com/AfterQuery/FinanceQA) | Бенчмарк для оценки возможностей LLM в финансовом анализе. | 8 | `—` | `—` |
+| Project | Description | ⭐ Stars | Language | License | 📖 Docs |
+|---|---|---:|---|---|---|
+| [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) | Динамические датасеты и рыночные среды для финансового RL. | 1.9k | `Python` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/AI4Finance-Foundation/FinRL-Meta) |
+| [FNSPID_Financial_News_Dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset) | Крупный датасет финансовых новостей и цен акций S&P 500 для временных рядов. | 432 | `Python` | `NOASSERTION` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/Zdong104/FNSPID_Financial_News_Dataset) |
+| [FinLLMs](https://github.com/adlnlp/FinLLMs) | Бенчмарки и датасеты для статьи Large Language Models in Finance. | 380 | `—` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/adlnlp/FinLLMs) |
+| [financebench](https://github.com/patronus-ai/financebench) | Бенчмарк с открытым источником для финансового QA с LLM. | 332 | `Jupyter Notebook` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/patronus-ai/financebench) |
+| [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval) | Китайский финансовый бенчмарк с 26 000+ вопросов для оценки LLM. | 278 | `Python` | `Apache-2.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/SUFE-AIFLM-Lab/FinEval) |
+| [live-trade-bench](https://github.com/ulab-uiuc/live-trade-bench) | Бенчмарк для оценки торговых агентов в реальном времени. | 160 | `Python` | `NOASSERTION` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/ulab-uiuc/live-trade-bench) |
+| [BizFinBench](https://github.com/HiThink-Research/BizFinBench) | Бизнес-ориентированный реальный финансовый бенчмарк для LLM. | 167 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/HiThink-Research/BizFinBench) |
+| [cflue](https://github.com/aliyun/cflue) | Китайский бенчмарк понимания финансового языка для LLM. | 91 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/aliyun/cflue) |
+| [FinLoRA](https://github.com/Open-Finance-Lab/FinLoRA) | Бенчмаркинг LoRA для дообучения LLM на финансовых данных. | 66 | `Python` | `NOASSERTION` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/Open-Finance-Lab/FinLoRA) |
+| [FLANG](https://github.com/SALT-NLP/FLANG) | Предобученная модель для финансового домена и набор бенчмарков FLUE. | 57 | `Python` | `Apache-2.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/SALT-NLP/FLANG) |
+| [CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) | Китайский бенчмарк финансового ассистента для больших языковых моделей. | 55 | `Python` | `Apache-2.0` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/TongjiFinLab/CFBenchmark) |
+| [FinMTEB](https://github.com/yixuantt/FinMTEB) | Финансовый масштабный бенчмарк текстовых эмбеддингов на 64 датасетах. | 54 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/yixuantt/FinMTEB) |
+| [FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard) | Лидерборд для оценки финансовых LLM и агентов. | 26 | `Jupyter Notebook` | `MIT` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/Open-Finance-Lab/FinLLM-Leaderboard) |
+| [CNFinBench](https://github.com/open-compass/CNFinBench) | Комплексный высокорисковый китайский финансовый бенчмарк с цепочками агентов. | 16 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/open-compass/CNFinBench) |
+| [FinBen](https://github.com/The-FinAI/FinBen) | Комплексный набор бенчмарков для оценки LLM на финансовых задачах. | 15 | `Python` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/The-FinAI/FinBen) |
+| [FinanceQA](https://github.com/AfterQuery/FinanceQA) | Бенчмарк для оценки возможностей LLM в финансовом анализе. | 8 | `—` | `—` | [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-7C3AED?style=flat&logo=readthedocs&logoColor=white)](https://deepwiki.com/AfterQuery/FinanceQA) |
 
 <a id="papers"></a>
 ## 8. 🧪 Исследовательские статьи с кодом
